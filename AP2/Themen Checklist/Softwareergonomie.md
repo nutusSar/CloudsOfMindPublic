@@ -1,0 +1,19 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Mock-up
+- [ ] Usability vs. User-Experience
+- [ ] Entwurf der Bildschirmausgabemasken (Softwareergonomie, Barrierefreiheit)
+- [ ] Benutzerschnittstellen ergonomisch gestalten und an Kundenanforderungen anpassen
+    - [ ] übliche Gestaltungselemente für Benutzerschnittstellen (Controls): Button, Textfeld, Dropdown, Combobox usw.
+- [ ] Richtlinien bei der Gestaltung von Programmoberflächen
+    - [ ] Aufgabenangemessenheit
+    - [ ] Selbstbeschreibungsfähigkeit
+    - [ ] Lernförderlichkeit
+    - [ ] Steuerbarkeit
+    - [ ] Erwartungskonformität
+    - [ ] Individualisierbarkeit
+    - [ ] Fehlertoleranz (siehe [Grundsätze der Dialoggestaltung](http://de.wikipedia.org/wiki/EN_ISO_9241#EN_ISO_9241-110_Grunds.C3.A4tze_der_Dialoggestaltung "Grundsätze der Dialoggestaltung"))
+- [ ] Barrierefreiheit bzw. Inklusives Design

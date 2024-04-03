@@ -1,0 +1,33 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Datenschutzgesetze – national und auf EU-Ebene, z.B. Datenschutzgrundverordnung (DSGVO), BDSG
+    - [ ] Definition von personenbezogenen Daten
+- [ ] Grundsätze des Datenschutzes (Art. 5)
+    - [ ] Rechtmäßigkeit/Gesetzmässigkeit (Erfordernis der gesetzlichen Grundlage)
+    - [ ] Transparenz gegenüber den betroffenen Personen
+    - [ ] Zweckbindung
+    - [ ] Datenminimierung/Verhältnismässigkeit (Datensparsamkeit und Datenvermeidung)
+    - [ ] Richtigkeit
+    - [ ] Speicherbegrenzung
+    - [ ] Integrität und Vertraulichkeit
+    - [ ] Rechenschaftspflicht
+    - [ ] Informationssicherheit
+- [ ] Betroffenenrechte
+    - [ ] Recht auf Information
+    - [ ] Recht auf Auskunft
+    - [ ] Recht auf Berichtigung
+    - [ ] Recht auf Löschung
+    - [ ] Recht auf Einschränkung der Bearbeitung
+    - [ ] Recht auf Widerspruch
+    - [ ] Recht auf Datenübertragbarkeit
+- [ ] Persönlichkeitsrechte
+    - [ ] Recht auf informationelle Selbstbestimmung
+    - [ ] Recht am eigenen Bild
+    - [ ] Recht am geschriebenen/gesprochenen Wort
+    - [ ] Recht auf Schutz vor Imitation der Persönlichkeit
+    - [ ] Recht auf Schutz der Intim-, Privat- und Geheimsphäre
+- [ ] Archivierung (rechtliche Vorgaben, Unterschied zu Backup, technologische Anforderungen)
+    - [ ] Systeme, Fristen, Pflichten

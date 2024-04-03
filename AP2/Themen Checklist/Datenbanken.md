@@ -1,0 +1,20 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Datentypen: Boolesche Werte, Ganzzahl, Gleitkommawerte, Währung, Datumswerte, Texte fester und variabler Länge, BLOB, Geokoordinaten
+- [ ] OpenData, API-Schnittstellen
+- [ ] Berücksichtigung vorhandener Datenbank- und Speicherkonzepte bei der Integration und Erweiterung von Bestandssystemen
+- [ ] Inbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen
+- [ ] Beachten von Schnittstellen zu weiteren Systemen
+- [ ] Datenquellen: nicht nur relationelle und schemafreie Datenbanken wie MySQL, MsSQL und MongoDB, sondern auch z. B. Sensoren, CSV-Dateien
+- [ ] Begriffe kennen und erläutern
+    - [ ] Redundanz
+    - [ ] Kardinalitäten: 1:1, 1:n, m:n
+    - [ ] Primär-/Fremdschlüssel und andere Schlüsseltypen: anonym, künstlich/natürlich
+    - [ ] referentielle Integrität (Aktualisierungsweitergabe, Löschweitergabe)
+        - [ ] Maßnahmen bei Löschoperationen (Constraints): CASCADE, DENY/RESTRICT, SET NULL, (NO ACTION)
+    - [ ] Tiefergehende Datenbankobjekte: Index, Stored Procedure, Trigger, Sequence
+    - [ ] Replikation
+- [ ] ACID-Prinzipien für Transaktionen kennen und erläutern (atomicity, consistency, isolation, durability)

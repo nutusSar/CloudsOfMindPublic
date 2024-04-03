@@ -1,0 +1,23 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Gespräche situationsgerecht führen und Kunden und Kundinnen unter Berücksichtigung der Kundeninteressen beraten
+- [ ] Daten und Sachverhalte interpretieren, multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Berücksichtigung der betrieblichen Vorgaben präsentieren
+- [ ] Präsentieren von Sachverhalten (auch softwarebasiert) unter Berücksichtigung von z.B. Gestaltungsgrundsätzen nach Kundenvorgaben, Dateiformaten
+- [ ] Anwenden von Kommunikations- und Argumentationstechniken
+- [ ] Präsentationstechniken
+- [ ] Grafische Darstellung bzw. Visualisierung (Diagrammarten, Bilderbearbeitung, Videos, multimediale Aufbereitung)
+- [ ] Tabellenkalkulation
+- [ ] Präsentationsprogramme
+- [ ] Programme zum Erstellen multimedialer Inhalte
+- [ ] Corporate Identity (CI)
+- [ ] Anwendung und Einarbeitung in marktübliche Präsentationssoftware
+- [ ] Vor- und Nachbereitung einer Präsentation
+- [ ] Elemente einer Präsentation beherrschen, z.B.:
+    - [ ] Visualisierungsregeln
+    - [ ] Farbwirkung
+- [ ] Rhetorikgrundlagen, z.B.:
+    - [ ] Atem- und Sprechtechnik
+    - [ ] Rede- und Vortragstechnik

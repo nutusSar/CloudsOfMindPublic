@@ -1,0 +1,47 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Klassifizierung von Testverfahren
+    - [ ] Wer testet?
+        - [ ] Mensch (manuell) vs. Maschine (automatisch)
+        - [ ] Entwickler vs. Benutzer
+    - [ ] Was wird getestet?
+        - [ ] Komponente (Unit-Test/Funktionstest/Klassentest) vs. Integration vs. System (End-to-End)
+        - [ ] Testpyramide
+    - [ ] Wie wird getestet?
+        - [ ] Bottom-Up vs. Top-Down
+        - [ ] statisch (Kompilierzeit) vs. dynamisch (Laufzeit)
+        - [ ] ohne Kenntnis des Codes (Blackbox) vs. mit Kenntnis des Codes (Whitebox)
+        - [ ] explorativ
+        - [ ] Schreibtischtest/Review
+    - [ ] Wann wird getestet?
+        - [ ] Vor vs. nach der Entwicklung
+        - [ ] Abnahmetest
+    - [ ] Warum wird getestet?
+        - [ ] Regressionstest
+        - [ ] Lasttest/Belastungstest
+        - [ ] Smoketest
+- [ ] Methoden zur Ermittlung von Testfällen
+    - [ ] Anweisungsüberdeckung vs. Zweig-/Pfadüberdeckung
+    - [ ] Äquivalenzklassen
+    - [ ] Grenzwertanalyse/Extremwertetest
+- [ ] Modultests erstellen und durchführen
+    - [ ] Test-Doubles: Stubs vs. Mocks
+    - [ ] Eigenschaften guter Unit-Tests: korrekt, isoliert, schnell, aussagekräftig, wartbar, einfach durchführbar
+- [ ] Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren
+    - [ ] Definition der Inhalte eines Tests, z.B. Testkonzepte, Testdaten, Testszenario
+    - [ ] Beschreiben des Testumfangs, z.B. Grenzbelastung, Stabilität
+    - [ ] Testdatengeneratoren
+- [ ] Daten und Sachverhalte aus Tests multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung der betrieblichen Vorgaben präsentieren
+- [ ] Testprozess
+    - [ ] Auswahl des Testverfahrens
+    - [ ] Kriterien für Testergebnisse definieren
+    - [ ] Testdaten generieren und auswählen
+    - [ ] Testprotokoll und Auswertung
+- [ ] Auswerten von Testergebnissen, z.B. Soll-Ist-Vergleich
+    - [ ] Testprotokolle
+- [ ] Kontrollverfahren
+    - [ ] Hardwaretest, z.B. Wareneingangskontrolle, mangelhafte Lieferung, Warenausgangskontrolle, Abnahmeprotokoll
+    - [ ] Software-Test, z.B. Testverfahren, Abnahmeprotokoll

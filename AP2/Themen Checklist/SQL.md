@@ -1,0 +1,27 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Erstellen einfacher Abfragen von Datenquellen unter Verwendung einer Abfragesprache und komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen
+- [ ] SQL als normierte Sprache für die weit verbreiteten relationalen Datenbanken zum Bearbeiten (Einfügen, Verändern, Löschen) und Abfragen von darauf basierenden Datenbeständen anwenden
+- [ ] Projektion vs. Selektion
+- [ ] Kreuzprodukt/kartesisches Produkt
+- [ ] DDL, DML, DQL, DCL, TCL
+- [ ] CRUD (Create, Read, Update, Delete): INSERT/SELECT/UPDATE/DELETE
+- [ ] SELECT-Aufbau rauf und runter: FROM, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, (LIMIT)
+- [ ] Subqueries
+- [ ] LIKE-Syntax (Platzhalter)
+- [ ] Abfrage über mehrere Tabellen (JOIN)
+    - [ ] verschiedene Joins erklären (INNER, OUTER LEFT/RIGHT/FULL, Natural, Self)
+- [ ] Ausdrücke und Bedingungen
+- [ ] Nutzung von Aggregatsfunktionen, z.B. COUNT, SUM, AVG
+- [ ] Tabellenstruktur (CREATE, ALTER, DROP, DESCRIBE, SHOW DATABASES, SHOW TABLES)
+- [ ] Manipulation (INSERT, UPDATE, DELETE)
+- [ ] Projektion (SELECT FROM)
+- [ ] Selektion (SELECT FROM… WHERE) und (SELECT… (SELECT…)), DISTINCT
+- [ ] Sortieren (ORDER BY ASC/DESC)
+- [ ] Gruppieren (GROUP BY, HAVING)
+- [ ] Index (CREATE INDEX)
+- [ ] Schnitt-, Vereinigungs- und Differenzmenge (INTERSECT, UNION (ALL), MINUS)
+- [ ] SQL Injection

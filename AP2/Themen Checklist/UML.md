@@ -1,0 +1,13 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] wichtige UML-Diagramme kennen und Einsatzgebiete erläutern
+- [ ] Klassendiagramm
+- [ ] Aktivitätsdiagramm
+- [ ] Anwendungsfalldiagramm (Use-Cases)
+- [ ] Sequenzdiagramm
+- [ ] Zustandsdiagramm/Zustandsautomat
+- [ ] Komponentendiagramm
+- [ ] Verteilungsdiagramm

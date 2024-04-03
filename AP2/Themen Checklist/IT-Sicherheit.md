@@ -1,0 +1,73 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Datensicherheit (Authentifizierung, Autorisierung, Verschlüsselung)
+- [ ] Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen
+- [ ] Für jede Anwendung, die verwendeten IT-Systeme und die verarbeiteten Informationen gilt: Betrachtung zu erwartender Schäden, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit entstehen könnten!
+    - [ ] Imageschaden
+    - [ ] Wirtschaftlicher Schaden
+    - [ ] Datenverlust
+- [ ] Bedrohungsszenarien
+    - [ ] Datendiebstahl
+    - [ ] Digitale Erpressung (Ransomware)
+    - [ ] Identitätsdiebstahl (Phishing)
+- [ ] Sicherheitskriterien
+    - [ ] Richtschnur für Entwickler
+    - [ ] Objektive Bewertung der Systeme (IT-Grundschutzmodellierung)
+    - [ ] Anwender/Benutzer bei der Auswahl eines geeigneten IT-Sicherheitsprodukts unterstützen (Security by Design)
+- [ ] Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten
+    - [ ] Private Haushalte
+    - [ ] Unternehmen (intern, extern)
+    - [ ] Öffentliche Hand
+    - [ ] Funktionale Anforderungen
+    - [ ] Qualitätsanforderungen Anforderungen
+    - [ ] Rahmenbedingungen
+        - [ ] Technologisch
+        - [ ] Organisatorisch
+        - [ ] Rechtlich
+        - [ ] Ethisch
+    - [ ] Risikoanalyse
+- [ ] Wirksamkeit und Effizienz der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz prüfen
+- [ ] Device Security Check
+- [ ] Identity & Access Management (IAM)
+- [ ] Schwachstellenanalyse (z.B. Ende-zu-Ende-Verschlüsselung)
+- [ ] Zutritt vs. Zugang vs. Zugriff
+    - [ ] Zutrittskontrolle, z.B. Alarmanlage, Videoüberwachung, Besucherausweise
+    - [ ] Zugangskontrolle, z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte
+    - [ ] Zugriffskontrolle, z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept
+- [ ] Log Management
+- [ ] Compliance Reports
+- [ ] unterschiedliche Gefahrenquellen, z.B. Stromausfall, Überhitzung, Virenbefall
+- [ ] geeignete Gegenmaßnahmen, z.B. USV-Anlagen, Klimageräte, Firewalls
+- [ ] Einteilung in die drei Schutzbedarfskategorien „normal“, „hoch“ und „sehr hoch“ (analog IT-Grundschutz des BSI)
+- [ ] IT-Sicherheitsregeln
+- [ ] verschiedene IT-Sicherheitszertifizierungen
+- [ ] Bundesamt für Sicherheit in der Informationstechnik (BSI) als Informationsplattform
+- [ ] Basis-Sicherheitscheck für schnellen Überblick über das vorhandene IT-Sicherheitsniveau, z.B. als Soll/Ist-Abgleich der noch fehlenden Maßnahmen oder Interviews über den Status quo eines bestehenden Informationsverbundes
+- [ ] ergänzende Sicherheitsanalyse mit Risikoanalyse (BSI-Standards 100-3)
+- [ ] Sicherheitstest einzelner Rechner oder Netzwerke jeglicher Größe, z.B. durch Penetrationstest (auch Social-Engineering-Penetrationstest) gem. Klassifikationsschema des BSI
+- [ ] Durchführung in einem fünfstufigen Prozess
+    - [ ] Vorbereitungsphase
+    - [ ] Informationsbeschaffung
+    - [ ] Bewertung der Informationen
+    - [ ] Versuch des aktiven Eindringens
+    - [ ] Auswertung der Ergebnisse
+- [ ] mögliche Software, Portscanner, Sniffer, Paketgeneratoren, Passwortcracker, Verbindungsinterceptoren, Vulnerability Scanner etc. (siehe auch Open Vulnerability Assessment System – OpenVAS – unterstützt durch das BSI)
+- [ ] Begriffe kennen/erläutern
+    - [ ] Hacker (White Hat, Black Hat), Cracker, Script-Kiddies
+    - [ ] Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle
+    - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
+        - [ ] https://xkcd.com/327/
+    - [ ] Viren, Würmer, Trojaner, Hoax, Dialer (veraltet), Keylogger, Botnetze, Spyware, Adware, Ransomware, Scareware
+    - [ ] Backdoor, Exploit, 0-Day-Exploit, Rootkit
+    - [ ] Verbreitung von Viren/Würmer/Trojaner erläutern
+- [ ] Maßnahmen zur Angriffserkennung, z.B. Monitoring, Honeypot
+- [ ] [OWASP Top 10](https://owasp.org/www-project-top-ten/ "OWASP Top Ten"): Injection, Misconfiguration, Broken Access Control, Monitoring Failures usw.
+    - [ ] SQL Injection, Cross-Site-Scripting (XSS), Cross-Site-Request-Forgery (CSRF)
+    - [ ] Gegenmaßnahmen auf Entwicklerseite (z.B. Validierung, Cross-Origin-Resource-Sharing (CORS))
+- [ ] Authentifizierungs- und Autorisierungsverfahren
+    - [ ] Delegierte Authentifizierung
+    - [ ] OAuth2
+    - [ ] Single-Sign-On

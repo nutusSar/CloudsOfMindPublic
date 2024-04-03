@@ -1,0 +1,27 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Beachten von Qualitätskriterien beim Programmieren mit branchentypischen Werkzeugen, Editoren, Entwicklungsumgebungen
+- [ ] Anforderungen: Änderbarkeit, Benutzbarkeit, Effizienz, Funktionalität, Übertragbarkeit, Zuverlässigkeit, Normen anwenden
+- [ ] Definition Software-Qualität
+- [ ] Software-Qualitätsmerkmale nach [ISO 9126](https://de.wikipedia.org/wiki/ISO/IEC_9126#/media/Datei:ISO_9126_quality_(de).svg "Qualitätskriterien nach ISO 9126") nennen und erläutern
+    - [ ] Funktionalität: Angemessenheit, Interoperabilität, Ordnungsmäßigkeit, Richtigkeit, Sicherheit
+    - [ ] Änderbarkeit: Analysierbarkeit, Modifizierbarkeit, Testbarkeit, Stabilität
+    - [ ] Übertragbarkeit: Anpassbarkeit, Austauschbarkeit, Installierbarkeit, Koexistenz
+    - [ ] Effizienz: Verbrauchsverhalten, Zeitverhalten
+    - [ ] Zuverlässigkeit: Fehlertoleranz, Reife, Wiederherstellbarkeit
+    - [ ] Benutzbarkeit: Attraktivität, Bedienbarkeit, Erlernbarkeit, Verständlichkeit
+- [ ] Software-Qualitätsmerkmale nach [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 "Qualitätskriterien nach ISO 25010") nennen und erläutern
+    - [ ] Functional Suitability: Functional Completeness, Functional Correctness, Functional Appropriateness
+    - [ ] Performance Efficiency: Time Behaviour, Resource Utilization, Capacity
+    - [ ] Compatibility: Co-existence, Interoperability
+    - [ ] Usability: Appropriateness Recognizability, Learability, Operability, User Error Protection, User Interface Aesthetics, Accessibility
+    - [ ] Reliability: Maturity, Availability, Fault Tolerance, Recoverability
+    - [ ] Security: Confidentiality, Integrity, Non-repudiation, Authenticity, Accountability
+    - [ ] Maintainability: Modularity, Reusability, Analysability, Modifiability, Testability
+    - [ ] Portability: Adaptability, Installability, Replaceability
+- [ ] Maßnahmen zur Qualitätssicherung
+    - [ ] Audits, Code Reviews, Testmethoden, Entwicklungsprozess, Dokumentation, statische Codeanalyse, Pair Programming, Bugtracking
+    - [ ] Continuous Integration/Delivery/Deployment

@@ -1,0 +1,40 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren
+- [ ] Verschiedene Prüfverfahren, z.B. Parität, Redundanz
+- [ ] Debugging, Ablaufverfolgung
+- [ ] Netzwerkanalyse, Bandbreite, Reaktionszeiten
+- [ ] Im Rahmen eines Verbesserungsprozesses die Zielerreichung kontrollieren, insbesondere einen Soll-Ist-Vergleich durchführen
+- [ ] Verbesserungsprozess, PDCA-Zyklus, KVP, Kennzahlen
+- [ ] Soll-Ist-Vergleich, Abweichungen erkennen und berechnen
+- [ ] Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen
+- [ ] Datenintegrität mithilfe von Werkzeugen sicherstellen
+- [ ] Constraints
+- [ ] Validierungen
+- [ ] Transaktionssicherheit
+- [ ] übergeordneter Problemlösungsprozess
+    - [ ] Problemverständnis und -beschreibung (Define)
+    - [ ] Problemanalyse und Ursachensuche (Measure)
+    - [ ] Lösungssuche und -auswahl (Analyse)
+    - [ ] Lösungsrealisierung und -bewertung (Improve)
+    - [ ] Überprüfung der Wirksamkeit (Control)
+- [ ] verschiedene Methoden, insbesondere in den Stadien „Ursachensuche“ und „Analysieren“, kennen und anwenden, z.B.:
+    - [ ] Ursachensuche: 6-W-Fragetechnik, Störungsmatrix, Histogramm, Verlaufsdiagramm, Korrelationsdiagramm
+    - [ ] Analysieren: Brainstroming/-writing, Flussdiagramm, Ishikawa-Diagramm, Variablenvergleich, Messsystemanalyse, Komponententausch, Einsatz von Debuggern
+- [ ] Lösungsrealisierung bzw. Fehlerbehebung selbst vornehmen oder veranlassen und begleiten
+- [ ] Grundlagen/Methoden des Qualitätsmanagements und einer vorbeugenden Qualitätssicherung bei IT-Systemen kennen und anwenden
+- [ ] Qualitätsplanung (Ist-Zustand ermitteln und Ziel-Zustand festlegen)
+- [ ] Qualitätslenkung (Umsetzung der Planphase)
+- [ ] verschiedene Prüfverfahren kennen und bewerten, z. B. auf Parität, Redundanz
+- [ ] Grundkenntnisse in der Stochastik (Berechnung von Wahrscheinlichkeiten bei Qualitätsmängeln)
+- [ ] Qualitätssicherung (Auswertung relevanter Informationen)
+- [ ] Qualitätsgewinn (weitere Umsetzung und Mitteilen der gewonnenen Informationen an die betroffenen Stellen)
+- [ ] Qualitätsmanagement als selbstreferenziellen Prozess begreifen (die Verfahren zur Verbesserung lassen sich auch auf den Qualitätsmanagementprozess selbst anwenden)
+- [ ] Erstellen und Erweitern von Handbüchern für Benutzer und Systembetreuer
+- [ ] Berücksichtigung der Komplexität und Verständlichkeit bei der Nutzung von Herstellerdokumentationen zur Bereitstellung für den Anwender
+- [ ] Incident Management (Ticketsystem)
+- [ ] Standard Operation Procedures (SOP)
+- [ ] Service Level Agreement (SLA), Service level 1 -3

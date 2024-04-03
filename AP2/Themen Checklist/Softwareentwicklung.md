@@ -1,0 +1,27 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Arten von Software unterscheiden (Individual-/Branchensoftware)
+    - [ ] ERP, CRM, CAD, CMS, DMS, PPS, ECM
+- [ ] Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten sowie Schnittstellen festlegen
+- [ ] Programmiersprachen auswählen und unterschiedliche Programmiersprachen anwenden
+- [ ] Teilaufgaben von IT-Systemen automatisieren
+- [ ] Datenbankverbindung implementieren
+- [ ] Skript- und Shellprogrammierung (z.B. Python)
+    - [ ] herstellerabhängige Skriptbausteine und -sprachen anwenden, z.B.: Bash, PowerShell
+    - [ ] wiederkehrende Systemabläufe automatisieren und überwachen
+    - [ ] Optimieren und Automatisieren lokaler und netzwerkübergreifender Aufgaben
+- [ ] Bestehende Anwendungslösungen anpassen
+- [ ] Datenaustausch zwischen Systemen realisieren und unterschiedliche Datenquellen nutzen
+- [ ] Allgemeines Fehlerhandling in Programmen
+    - [ ] Exceptions, Return/Exit Codes
+    - [ ] Unterschied syntaktische/semantische Fehler
+- [ ] Systematisch Fehler erkennen, analysieren und beheben
+    - [ ] Debugging, Break Point
+- [ ] Berücksichtigung anwendungsspezifischer Möglichkeiten, z.B. Makrosprache
+- [ ] Rechnerarchitektur: CPU, BUS, Speicher und deren Adressierung
+- [ ] Lizenzen unterscheiden
+    - [ ] Open Source, proprietär
+- [ ] Informationspflichten zu Produkten, Namens- und Markenrecht, Urheber- und Nutzungsrecht, Persönlichkeitsrecht, unlauterer Wettbewerb

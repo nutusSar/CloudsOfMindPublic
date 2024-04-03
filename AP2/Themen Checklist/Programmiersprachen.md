@@ -1,0 +1,30 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+[- [  ] Programmierparadigmen: unstrukturiert, strukturiert, prozedural, funktional, objektorientiert, logisch
+- [ ] Programmiersprachen vergleichen
+    - [ ] Compiler vs. Interpreter
+    - [ ] Programmierparadigma
+    - [ ] Typisierung: statisch/dynamisch, stark/schwach
+    - [ ] Syntax: z.B. C-ähnlich
+    - [ ] General Purpose vs. Domain Specific
+    - [ ] Abstraktionsniveau: 1GL, 2GL, 3GL, 4GL
+    - [ ] imperativ vs. deklarativ
+    - [ ] Portabilität (z.B. hardwarenah vs. virtuelle Maschine)
+    - [ ] Skriptsprache
+    - [ ] Performance/Speicherbedarf (Unterschiede bei der Programmierung/Ausführungsgeschwindigkeit in C, Java und JavaScript)
+    - [ ] Einsatzzweck(e)
+- [ ] gängige Programmiersprachen kennen: PHP, Perl, Java, C, C++, C#, JavaScript, Delphi, Visual Basic, VBA, Ruby, Python, Cobol, F#, Lisp, Prolog, Assembler
+- [ ] synchrone vs. asynchrone Programmierung
+- [ ] Herausforderungen paralleler Programmierung
+- [ ] Einsatz von integrierten Entwicklungsumgebungen (IDE)
+- [ ] Framework vs. Bibliothek
+- [ ] Eigenschaften funktionaler Programmierung
+    - [ ] Functions as „First Class Citizens“
+    - [ ] Pure Functions
+    - [ ] Higher Order Functions
+    - [ ] Immutability
+    - [ ] Fokus auf Rekursion (Tail Call Optimization)
+    - [ ] Pattern Matching]()

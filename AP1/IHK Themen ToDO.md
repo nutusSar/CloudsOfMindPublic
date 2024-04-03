@@ -1,0 +1,139 @@
+---
+tags:
+  - "#Übersicht"
+  - "#ToDo"
+---
+
+- [x] Strukturplan
+- [x] Netzplan
+- [x]  Gantt-Diagramm
+- [x]  Störungsmanagment
+- [x]  Kundengespräch
+- [x]  Stärken-Schwächen-Analyse
+- [x]  Anwendungen/Betriebssysteme
+- [x] Cloudcomputing (Servicemodelle, Cloudlösungen)
+- [x]  Virtualisierung
+- [ ]  Netzwerkprotokolle
+- [x]  SMTP
+- [x]  IPSec
+- [x]  SSH
+- [x]  TLS
+- [x]  Datenspeicher
+- [ ]  Normen ???
+- [ ]  Vorschriften ???
+- [ ]  Zertifikate
+- [ ]  Vorschriften ???
+- [x]  Bedarfsanalyse
+- [x]  Remote-Desktop
+- [x]  Geräte-Klassen zB. Desktops, Notebooks, Tablets, Smartphone
+- [ ]  IDE
+- [ ]  Open-Source
+- [ ]  x Schnittstellen
+- [ ]  Kopatibilität
+- [ ]  Instalationen und Konfigurationen von Betriebssystemen
+- [ ]  Prozeduren und Fuktionen
+- [ ] Softwareergonomie Barrierenfreiheit
+- [ ]  PDCA (Plan, Do, Check, Act)
+- [ ]  Definiton von personenbezogenen Daten
+- [ ]  Authentifizierungen und Passwort-Policy
+- [ ]  Veränderungsprozesse
+- [ ]  Feedback-Kultur 
+- [ ] Lessons Learned
+- [ ] Fehlermanagement
+- [ ] Vertriebsformen
+- [x] OSI-Model
+- [ ] HTTP
+- [ ] ARP
+- [ ] RAID
+- [ ] Leistungsaufnahme
+- [ ] Finanzierungskosten
+- [ ] Debugging formale und inhaltliche FehlerUML ( Use-Case Klassendiagramm)
+- [ ] Sicherung der Verfügbarkeit - RAID und SAN
+- [ ]  SLA
+- [ ]  -Käufer verkäufer markt -Betriebssysteme -Datensicherung/Backupverfahren -Medienkompetenz
+- [ ] - Rahmenbedingungen Datensicherheit /Datenschutz
+- [ ]     - Betriebskosten
+- [ ]     - Installation und Konfiguration von Betriebssystemen
+- [ ]      - Firewall: SSH vs. Telnet
+- [ ]     - Soll-Ist-Vergleich    Philip: Zielgruppendefinition ;Kommunikationssysteme ; Albert: kritischer Weg / Pufferzeiten
+- [ ]  stakeholderanalyse
+- [ ]  Kundenkommunikatioin
+- [ ]  Störungsmanagement
+- [ ]  Angebotsbewertung
+- [ ]  Datenspeicher
+- [ ]  Netzteil
+- [ ]  Grafikkarte
+- [ ]  Software-as-a-Service
+- [ ]  Datenbanksysteme
+- [ ]  DNS
+- [ ]  SMP
+- [ ]  Lizenskosten
+- [ ]  Preisleistungsverhältnis
+- [ ]  Nutzwertanalyse
+- [ ]  IP-Konfiguration
+- [ ]  Barrierefreiheit (Bspw. zweiter Monitor
+- [ ]  Mikro)
+- [ ]  Interoperabilität
+- [ ]  Anpassung von Software
+- [ ]  Unterschied zwischen Compiler - Linker - Interpreter
+- [ ]  Klassen
+- [ ]  Vererbung
+- [ ]  Methoden
+- [ ]  Struktogramm
+- [ ]  PAP oder Pseudocode
+- [ ]  ER-Modelle
+- [ ]  Betriebliche QM-Systeme
+- [ ]  Kriterien für Softwarequalität
+- [ ]  Datenschutzgesetze --> DSGVO
+- [ ]  BDSG
+- [ ]  Zugangs- und Zugriffskontrolle
+- [ ]  Verzug
+- [ ]  Umsetzungsvarianten der Leistungserbringung
+- [ ]  Dokumentationsarten
+- [ ]  MachbarkeitsanalyseKommunikationsmodelle (speziell 4-Ohren Modell)File SystemeAnschaffungskostenKostenvergleichInstallation und Einrichtung von SystemenArbeit auf der KommandozeileKonsolenbefehle für Dateioperationen und Netzwerktroubleshooting(z.B. dir ls mkdir ipconfig ifconfig alias iproute2 arp del cp copy chmod ping traceroute)Bibliotheken und FrameworksER ModellIT Sicherheitorganisatorische technische personelle MaßnahmenMängelartenCeejay: Projektphasen: Meilensteine
+- [ ]  Betriebswirtschaftliche Kennzahlen (Umsatz
+- [ ]  Zins)
+- [ ] Fragetechnik aktives Zuhören Bedarfsanalyse Cross Selling Up Selling
+- [ ] Auswertung von englischen TextenNutzwertanalyseIT-Systeme CPU
+- [ ]  Motherboard
+- [ ]  speicher
+- [ ]  Benutzeroberfläche
+- [ ]  Netzwerkkomponenten (Router
+- [ ]  Switches
+- [ ]  Access Point)
+- [ ]  IMAP
+- [ ]  IP/TCP/UDP
+- [ ]  Kenngrößen LeistungsdatenEthernetstandartsStrom
+- [ ]  Spannung
+- [ ]  Leistung
+- [ ] Lasten und PflichtenheftPartitionierung und Formatierung
+- [ ]  Standard oder individual Software
+- [ ]  proprietäre Software
+- [ ]  Installation und Konfiguration von HardwareKonfigurationTest Troubleshooting und Dokumentation von Netzwerverbindungenprozzudurale und objektorientierte HerangehensweiseScriptsprachen (Shell Script)
+- [ ]  QS MaßnahemenAudit
+- [ ]  Zertifizierung.BSI IT GrundschutzSchutzbedarfsanalyse nach BSIBausteine der Grundschutzanalyse
+- [ ] Kaufvertrags
+- [ ]  Lizenzvertrag Mietvertrag
+- [ ]  WerkvertragVertragsbesandteileDokumentation der LeistungserbringungKundenvorgabenAufbau und Organisation des eigenen Unternehmens
+- [ ]  Leistungsübergabe     Tom L: Risikoanalyse
+- [ ]  Angebotsbewertung
+- [ ] Qualitätsmerkmale von Präsentationen
+- [ ]  Perepherie( Netzwerkkomponenten
+- [ ]  Wlan)
+- [ ]  NFS
+- [x]  DHCP
+- [ ] BIOS UEFI
+- [ ]  CPU
+- [ ]  RAM
+- [ ]  Variable und fixe Kosten
+- [ ]  Qulitativer und Quantitativer Angebotsverggleich
+- [ ]  Anwendungssoftware
+- [ ]  BranchensoftwareAnpassbarkeit und wartbarkeitLizenzartenBefehlssyntaxPrameterIP-adreessenDHCPW-Lanzugang pre-shared Key/Enterprise VPNVariablen
+- [ ]  datentypen und datenstrukturenSELECT bezogen auf eine TabelleQualitätsbegriff nach ISO 9000Verschlüsselungstechniken(symetrische und asymetrische CAs
+- [ ]  Zertifikate nach https
+- [ ]  TLSRoloutprozesseDaniel S.:    Kontrollstrukturen
+- [ ]  zb. Verzweigung
+- [ ]  Schleifenyand: Marktform (Polypol Monopol): 
+- [ ] Ticketsystem
+- [ ]  Onlineschulung
+- [ ]  SMTP

@@ -1,0 +1,21 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] Datenaustauschformate: CSV, XML, JSON
+- [ ] XML
+    - [ ] vs. SGML, HTML, CSV, JSON, YAML etc.
+    - [ ] Wohlgeformtheit, Validität
+    - [ ] Parser, Serialisierer
+        - [ ] SAX, DOM
+    - [ ] DTD, Schema, RelaxNG, Schematron
+    - [ ] XSLT, XSL-FO
+- [ ] JSON
+    - [ ] Syntax, Vor-/Nachteile, Einsatzgebiete
+- [ ] REST
+    - [ ] Adressierbarkeit, Zustandslosigkeit, einheitliche Schnittstelle (uniform interface), Ressource vs. Repräsentation
+    - [ ] Hypermedia as the Engine of Application State (HATEOAS)
+    - [ ] Code on Demand
+- [ ] Webservices/SOA
+    - [ ] SOAP, WSDL
