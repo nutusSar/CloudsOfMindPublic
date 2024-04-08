@@ -4,8 +4,6 @@ title: Welcome to Clouds of my Mind
 
 ---
 
-  
-
 This is my Universe.
 Welcome and have fun Exploring.
 <br>
