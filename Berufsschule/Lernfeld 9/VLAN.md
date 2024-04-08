@@ -103,4 +103,3 @@ Router(config-subif)# ip address 192.168.10.1 255.255.255.0
 ```
 Switch(config)# interface range fa0/1 - 10
 ```
-
