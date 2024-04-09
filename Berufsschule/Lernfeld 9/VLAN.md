@@ -22,9 +22,12 @@ Vor das EtherType-Feld wird ein Tag eingesetzt
 ![[Pasted image 20240304125434.png]]
 
 ## VLAN-Trunking
+### Definition
 + Ein Trunkport an jeder Switch, ermöglicht das Kommunizieren der gleichen VLANSs zweier Switches über den gleichen Port
 + Frame wird mit einem VLAN-Tag versehen , welcher zwischen Source Mac und Frame länge kommt.
 + Hat ein Frame kein VLAN-Tag so geht die Switch davon aus, dass es sich um das Standard VLAN handelt.
+### 802.1Q
+![[Pasted image 20240409114308.png]]
 
 ## Vorteile
 + Günstiger als ein eigenes Netzwerk mit einem Router
