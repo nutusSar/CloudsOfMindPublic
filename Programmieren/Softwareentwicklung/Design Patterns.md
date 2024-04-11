@@ -2,6 +2,7 @@
 tags:
   - "#Programmieren"
   - "#Softwareentwicklung"
+  - "#AP2"
 ---
 ## Erzeugungsmuster
 + **Fabrikmethode (factory methode)**: Erschafft ein Objekt ohne genau zu spezifizieren, um welche Klasse es sich handelt

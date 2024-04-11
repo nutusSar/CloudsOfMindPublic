@@ -95,7 +95,7 @@ else if (a < b){
 	System.outprintln("Zahl 1 ist kleiner Zahl 2");
 }
 else{
-	System.out.println("Zahl 1 ist gleich Zahl2");
+	System.out.println("Zahl 1 ist gleich Zahl 2");
 }
 ```
 Bedingungen evaluieren zu true or false.
@@ -136,7 +136,7 @@ System.out.println(zaehler);
 ```java
 Random random = new Random();
 int zufallszahl = random.nextInt(6);
-System.out.println(zufallszahl)
+System.out.println(zufallszahl);
 ```
 Bei dem Beispiel werden Zahlen von 0 bis einschließlich 5 zufällig ausgeben. Die Obergrenze 6 ist nicht bei den zufälligen Zahlen enthalten!
 
@@ -144,7 +144,7 @@ Für Zufallszahlen von (untereGrenze) ... bis (obereGrenze) ... zu erhalten gilt
 ```java
 Random random = new Random();
 int zufallszahl = random.nextInt(obereGrenze - untereGrenze + 1) + untereGrenze;
-System.out.println(zufallszahl)
+System.out.println(zufallszahl);
 ```
 
 ## Ein- und Ausgabe
@@ -157,7 +157,7 @@ System.out.println("Bitte geben sie was ein: ");
 String eingabe = scanner.nextLine();
 
 // Ausgabe
-Sysetem.out.println("Ihre Eingabe war: \n" + eingabe);
+System.out.println("Ihre Eingabe war: \n" + eingabe);
 ```
 
 

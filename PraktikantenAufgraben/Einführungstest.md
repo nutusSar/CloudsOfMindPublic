@@ -12,7 +12,7 @@
 ## Aufgabe 3
 **Schleifen**
 1) **Addieren** Sie in einer **for-Schleife** die Zahlen von 1 bis 100 auf (1+2+3+4+….). (Setzen Sie Ihre Variable zum Speichern der Summe vor der Schleife wieder auf 0.)
-2) **Addieren** Sie in einer weiteren for-Schleife die nur die **ganzen Zahlen** zwischen 1 und 100 auf (2+4+6+8+…). (Setzen Sie Ihre Variable zum Speichern der Summe vor der Schleife wieder auf 0.)    
+2) **Addieren** Sie in einer weiteren for-Schleife die nur die **geraden Zahlen** zwischen 1 und 100 auf (2+4+6+8+…). (Setzen Sie Ihre Variable zum Speichern der Summe vor der Schleife wieder auf 0.)    
 
 ## Aufgabe 4
 **Schleifen und Zufallszahlen**
