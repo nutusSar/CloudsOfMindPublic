@@ -3,12 +3,11 @@
 title: Welcome to Clouds of my Mind
 
 ---
+>[!Warning] Disclaimer
+> Die hier zu findenden Informationen sind nicht meine eigenen. Sie sind das Ergebnis des Zusammenstellens von gesammelten Informationen über verschiedene Medien hinweg.
+> Bei manchen davon handelt es sich dennoch um meine eigenen Überlegungen, Gedanken und Arbeitsergebnisse.
 
-This is my Universe.
-Welcome and have fun Exploring.
-<br>
 Hier findest du meine Übersicht Seiten:
-<br>
 
 | <div style="width:275px;">File</div>                                      | <div style='width:150px;'>Topic<div> | <div style='width:200px;'>Tags<div>                                      |
 | ------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------ |

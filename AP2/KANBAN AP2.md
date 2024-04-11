@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] [Datenbanken](Ausbildung%20FIAE/AP2/Themen%20Checklist/Datenbanken.md)
 - [ ] [[Datenbankmodelle und -modellierung]]
 - [ ] [[Datenschutz]]
-- [ ] [[Design Patterns]]
+- [ ] [[AP2/Themen Checklist/Design Patterns]]
 - [ ] [[IT-Sicherheit]]
 - [ ] [[Kundenbeziehungen]]
 - [ ] [[Netzwerktechnik]]
