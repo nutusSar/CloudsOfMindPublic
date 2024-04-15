@@ -28,14 +28,24 @@ Vor das EtherType-Feld wird ein Tag eingesetzt
 + Hat ein Frame kein VLAN-Tag so geht die Switch davon aus, dass es sich um das Standard VLAN handelt.
 ### 802.1Q
 ![[Pasted image 20240409114308.png]]
-
+- **TPID**: Tag Protocol Identifier (0x8100)
+- **TCI**: Tag Control Information
+    - **PCP**: Priority Code Point: Benutzer-Prioritätsinformationen.
+    - **DEI**: Drop Eligible Indicator
+    - **VID**: VLAN-Identifier, Identifizierung des VLANs, zu dem der Frame gehört.
 ## Vorteile
 + Günstiger als ein eigenes Netzwerk mit einem Router
 + Broadcastdomainen werden verkleinert -> Mehr Leistung
 + Unabhängigkeit von der physikalischen Topologie
 + Mehr Sicherheit, da die Frames nur noch an die erwünschten Personen gesendet werden
 
+## Switchport modes
 
+- _**Access**_: Permanent Nontrunking, auch wenn der Nachberport dies nicht zustimmt. Es wird trotzdem versucht zu verhandeln, dass der Link zu einem Nontrunk-Link wird.
+- _**Trunk**_: Permanent Trunking, auch wenn der Nachberport dies nicht zustimmt. Es wird trotzdem versucht zu verhandeln, dass der Link zu einem Trunk-Link wird.
+- **Dynamic Auto**: Ein Port wird zu einem Trunk-Port, wenn der benachbarte Port auf Trunk- oder "dynamic desirable" Modus eingestellt ist. Einige Switchports haben diesen Modus standardmäßig aktiviert.
+- **Dynamic Desirable**: VDer Port versucht aktiv den Link zu einem Trunk-Link umzuwandeln. Der Port wird zu einem Trunk-Port, wenn der benachbarte Ethernet-Port auf Trunk-, "dynamic desirable" oder "dynamic auto" Modus eingestellt ist.
+- _**No**-**negotiate**_ — Disables DTP. The port will not send out DTP frames or be affected by any incoming DTP frames. If you want to set a trunk between two switches when DTP is disabled, you must manually configure trunking using the (switchport mode trunk) command on both sides.
 ## Über die CLI einrichten
 ### VLAN zwischen zwei Switches
 #### VLAN erstellen
