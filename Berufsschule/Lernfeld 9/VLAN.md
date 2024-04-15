@@ -39,13 +39,13 @@ Vor das EtherType-Feld wird ein Tag eingesetzt
 + Unabhängigkeit von der physikalischen Topologie
 + Mehr Sicherheit, da die Frames nur noch an die erwünschten Personen gesendet werden
 
-## Switchport modes
-
+## Switchport-Modes
 - _**Access**_: Permanent Nontrunking, auch wenn der Nachberport dies nicht zustimmt. Es wird trotzdem versucht zu verhandeln, dass der Link zu einem Nontrunk-Link wird.
 - _**Trunk**_: Permanent Trunking, auch wenn der Nachberport dies nicht zustimmt. Es wird trotzdem versucht zu verhandeln, dass der Link zu einem Trunk-Link wird.
 - **Dynamic Auto**: Ein Port wird zu einem Trunk-Port, wenn der benachbarte Port auf Trunk- oder "dynamic desirable" Modus eingestellt ist. Einige Switchports haben diesen Modus standardmäßig aktiviert.
-- **Dynamic Desirable**: VDer Port versucht aktiv den Link zu einem Trunk-Link umzuwandeln. Der Port wird zu einem Trunk-Port, wenn der benachbarte Ethernet-Port auf Trunk-, "dynamic desirable" oder "dynamic auto" Modus eingestellt ist.
-- _**No**-**negotiate**_ — Disables DTP. The port will not send out DTP frames or be affected by any incoming DTP frames. If you want to set a trunk between two switches when DTP is disabled, you must manually configure trunking using the (switchport mode trunk) command on both sides.
+- **Dynamic Desirable**: Der Port versucht aktiv den Link zu einem Trunk-Link umzuwandeln. Der Port wird zu einem Trunk-Port, wenn der benachbarte Ethernet-Port auf Trunk-, "dynamic desirable" oder "dynamic auto" Modus eingestellt ist.
+- **No**-**negotiate**: DTP wird deaktiviert. Der Port sendet keine DTP-Frames aus und reagiert auch nicht auf eingehende DTP-Frames. Um zwischen zwei Switches einen Trunk einzurichten, wenn DTP deaktiviert ist, muss das Trunking manuell mit dem Befehl "switchport mode trunk" auf beiden Seiten konfiguriert werden.
+
 ## Über die CLI einrichten
 ### VLAN zwischen zwei Switches
 #### VLAN erstellen
