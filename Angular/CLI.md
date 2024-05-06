@@ -3,6 +3,15 @@ tags:
   - Angular
 topic: Commands
 ---
+## Installieren von Angular
+```CLI
+npm install -g @angular/cli
+```
+
+>[!info]
+> Für benutzen des Kommandos muss node.js installiert sein
+
+
 ## Neues Angular Projekt erstellen
 Um ein neues Angular Projekt zu erstellen, öffne eine Bash in dem Ordner, in dem der Root-Ordner des Projektes liegen soll.
 Anschließend wird dieser Befehl in die Bash eingegeben.
