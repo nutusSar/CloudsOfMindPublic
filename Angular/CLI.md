@@ -4,21 +4,22 @@ tags:
 topic: Commands
 ---
 ## Installieren von Angular
-```CLI
+```bash
 npm install -g @angular/cli
 ```
 
 >[!info]
-> Für benutzen des Kommandos muss node.js installiert sein
+> Für benutzen des Kommandos muss node.js installiert sein, denn die CLI benutzt node.js 
 
 
 ## Neues Angular Projekt erstellen
 Um ein neues Angular Projekt zu erstellen, öffne eine Bash in dem Ordner, in dem der Root-Ordner des Projektes liegen soll.
 Anschließend wird dieser Befehl in die Bash eingegeben.
 ```bash
-ng new <Project Name>
+ng new <Project Name> [--no-strict] [--standalone false] [--routing false]
 ```
 Die CLI erstellt dann ein Vanilla Angular Projekt. 
+
 ## Starten des Servers
 Das Projekt kann jederzeit live im Browser nachverfolgt werden. Dafür wird folgender Command im Terminal eingegeben.
 ```bash
@@ -36,3 +37,10 @@ Dabei erstellt die CLI 4 Files in einem Ordner, der dem Komponenten Namen entspr
 + **.css:** Dieser File beinhaltet das Styling der Komponente
 + **.ts:** Dieser File beinhaltet die Logik der Komponente
 + **specs.ts:** Dabei handelt es sich um den File zum Testen der Komponente
+
+## Installieren von Bootstrap 3
+```Shell
+npm install --save bootstrap@3
+```
+
+Der Befehl installiert Bootstrap lokal für das Projekt. Zusätzlich muss in der "angular.jason" in dem "styles"-Arrayder Pfad zu Bootstrap hinzugefügt werden "node_modules/bootstrap/dist/css/boosttrap.min.css".

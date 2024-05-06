@@ -3,6 +3,9 @@ tags:
   - "#Angular"
 topic: Grundlagen
 ---
+## Definition
+Bei Direktiven handelt es sich um Instruktionen innerhalb des DOMs. Der Selektor kann frei gewählt werden, wie bei den Komponenten Selektoren. Standardmäßig wird aber der Attributselektor verwendet. Denn Komponenten sind auch Direktiven, Direktiven mit einem Template.
+
 ## Erstellen einer Basic Direktive
 ```ts
 @Directive({
