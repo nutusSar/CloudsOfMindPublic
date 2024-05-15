@@ -30,7 +30,7 @@ Nach erfolgreichen Bauen des Projektes, wird unter **localhost:4200** die Angula
 ## Komponente erstellen 
 Die CLI ermöglicht das schnelle und einfache erstellen einer Komponente mit folgendem Command:
 ```bash
-ng g c <optional: path to spicific folder + /><Component Name>
+ng g c <optional: path to spicific folder + /><Component Name> <optional: --skip-tests>
 ```
 Dabei erstellt die CLI 4 Files in einem Ordner, der dem Komponenten Namen entspricht:
 + **.html:** Hier befindet sich das HTML für die Erstellung der Komponente
