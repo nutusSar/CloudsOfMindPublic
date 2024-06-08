@@ -36,3 +36,4 @@ Da OPSF Protokollverkehr aus allen Schnittstellen sendet, müssen zur Reduzierun
 ```CLI
 Router(config-router)# passive-interface <interface>
 ```
+
