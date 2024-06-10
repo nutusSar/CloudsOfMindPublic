@@ -30,12 +30,12 @@ Jeder Router kennt nur die Distanz und Richtung. Dabei werden Informationen mit 
 + RIPv
 + BGP (**B**order **G**ateway **P**rotocoll)
 ### Link-State vs. Distanz-Vektor
-| **Link-State**                         | **Distanz-Vektor**    |
-| -------------------------------------- | --------------------- |
-| schnellere Konvergenz                  | geringere Komplexität |
-| genaueres Routing                      | weniger Speicher      |
-| bessere Skalierbarkeit                 | geringere CPU Last    |
-| reagieren schneller auf Veränderungen  | geringere Badnbreite  |
+| **Link-State**                        | **Distanz-Vektor**    |
+| ------------------------------------- | --------------------- |
+| schnellere Konvergenz                 | geringere Komplexität |
+| genaueres Routing                     | weniger Speicher      |
+| bessere Skalierbarkeit                | geringere CPU Last    |
+| reagieren schneller auf Veränderungen | geringere Bandbreite  |
 
 ## Codes
 ![[Pasted image 20240610081720.png]]
