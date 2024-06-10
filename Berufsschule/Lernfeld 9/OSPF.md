@@ -1,4 +1,5 @@
 ## Definition
+**O**pen **S**hortest **P**ath **F**irst
 
 ## Über CLI einrichten 
 ### Schritt 1
