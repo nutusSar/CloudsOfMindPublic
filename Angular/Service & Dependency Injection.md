@@ -10,7 +10,7 @@ Somit werden Zentrale Funktionen, auf die mehrere Komponenten zugreifen, in eine
 ```ts
 export class LoggingService() {
 	logStatusChange(status: string){
-		console.log('A server status cjanged, new status ', status);
+		console.log('A server status changed, new status ', status);
 	}
 }
 ```
@@ -28,7 +28,7 @@ export class NewComponent {
 	constructor(priavte loggingService: LoggingService)
 }
 ```
-So wird z.B. der LoggingService als eine Abhängigkeit der Komponente hinzugefügt. Als folge wird der LoggingService nit mehr manuell erzeugt, sondern von Angular selbst. 
+So wird z.B. der LoggingService als eine Abhängigkeit der Komponente hinzugefügt. Als Folge wird der LoggingService nicht mehr manuell erzeugt (kein manueller Aufruf des Konstruktors), sondern von Angular selbst. 
 
 Es gibt auch die inject() Methode. Doch üblich ist die Dependency injection über den Konstruktor bzw. noch besser über ngOnInit() einer Komponente.
 
@@ -40,9 +40,10 @@ Es gibt auch die inject() Methode. Doch üblich ist die Dependency injection üb
 Niedrigere Ebenen dieser Hierarchie überschreiben die Instanzen der höheren Ebenen für ihren eignen Zuständigkeitsbereich. 
 Um jedoch die selbe Instanz zu bekommen, muss der Service aus dem Provider-Array der niedrigeren Ebene der Hierarchie entfernt werden.
 
-
 ## Services in Services
-Um einen Service in einen Service zu injizieren, muss dem äußeren eine Annotation hinzugefügt werden. Zudem muss der Service auf der AppModul Ebene bereitgestellt werden. 
+Um einen Service in einen Service zu injizieren, muss dem äußeren eine Annotation hinzugefügt werden. Zudem muss der Service auf der AppModul Ebene bereitgestellt werden. D.h. der Service, in den initiiert werden soll, muss mit @Injectabele annotiert werden.
+>[!tip] Empfehlung
+>Seit neueren Versionen von Angular, wird es empfohlen, alle Services mit @Injectable zu versehen, auch jene, in die nicht initiiert wird. Zur Zeit, hat dies keine Auswirkungen, doch vlt. in der Zukunft.
 ```ts
 @Injectable()
 export class OuterService(){
@@ -50,8 +51,19 @@ export class OuterService(){
 }
 ```
 
+
 Seit Angular 6+ kann man, alternativ zu der AppModule Ebene, auch in der package.jason ein Konfiguration vornehmen. 
+>[!tip] Lazy-Loading
+> Die Konfiguration in der package.jason bietet einen Vorteil, und zwar, dass Services dadurch **lazy-loading** unterstützen.
 ```jason
 @Injectable({providedIn:'root'})
 export class MyService{}
 ```
+
+
+
+
+
+
+
+
