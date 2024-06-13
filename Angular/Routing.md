@@ -2,7 +2,7 @@
 tags:
   - "#Angular"
 ---
-## Definition
+## Funtionsweise
 Routing ermöglicht das einfache hin und her wechseln zwischen verschiedenen Bereichen einer Angularanwendung. 
 Dafür müssen zuerst Routen definiert werden. Dies geschieht in einem konstanten Array, welches in der **app.module.ts** angelegt wird. In diesem Array befinden sich Instanzen des Routes-Objektes. 
 **Beispiel**:
@@ -37,3 +37,26 @@ Es empfiehlt sich das Attribut routerLink zu benutzen anstelle von href, denn hr
 >```html
 ><a routerLink='/...'></a>
 >```
+
+
+## Visuelle Identifikation
+Um z.B. aktuell ausgewählte Routen in einer Navigation visuell zu markieren, kann das Attribut **routerLinkActive** hinzugefügt werden. 
+**Beispiel**:
+```html
+<ul class="nav nav-tabs">  
+  <li role="presentation" routerLinkActive="active"><a routerLink="/">page1</a></li>  
+  <li role="presentation" routerLinkActive="active"><a routerLink="/page2">page2</a></li>  
+  <li role="presentation" routerLinkActive="active"><a routerLink="/page3">page3</a></li>  
+</ul>
+```
+
+>[!tip] Fehlerhaftes Verhalten
+>routerLinkActive übrprüft ob die Route des Elements in der aktuellen Route enthalten ist. So wird page1 und page3 als aktiv markiert, obwohl nur page3 geöffnet ist, denn "/" ist Teil der Route "/page3". Um dies zu verhindern, füge folgende Konfiguration hinzu
+>```html
+>...
+>  <li role="presentation" routerLinkActive="active" 
+   [routerLinkActiveOptions]="{exact: true}"><a routerLink="/">page1</a></li>  
+>...
+>```
+
+
