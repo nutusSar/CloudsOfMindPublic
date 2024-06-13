@@ -13,7 +13,7 @@ const appRoutes: Routes = [
   {path: 'path3', component: 'Component3'}
 ]
 ```
-Die angelegten Routen müssen nun Angular bekanntgegeben werden. Dazu wird ebenfalls in der **app.module.ts** unter **imports** ein neuer eintrag hinzugefügt.
+Die angelegten Routen müssen nun Angular bekanntgegeben werden. Dazu wird ebenfalls in der **app.module.ts** unter **imports** ein neuer Eintrag hinzugefügt.
 **Beispiel**:
 ```ts
 imports: [
@@ -37,4 +37,3 @@ Es empfiehlt sich das Attribut routerLink zu benutzen anstelle von href, denn hr
 >```html
 ><a routerLink='/...'></a>
 >```
-
