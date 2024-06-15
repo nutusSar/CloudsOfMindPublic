@@ -4,9 +4,9 @@ tags:
   - "#ToDo"
 ---
 
-- [ ] Algorithmus: präzise (eigentlich von IT-Systemen unabhängige) Formulierung einer Verarbeitungsvorschrift
-- [ ] Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen
-- [ ] Abbildung der Kontrollstrukturen mittels Struktogramm, PAP oder Pseudocode als didaktisches Hilfsmittel
+- [x] Algorithmus: präzise (eigentlich von IT-Systemen unabhängige) Formulierung einer Verarbeitungsvorschrift
+- [ ] ~~Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen~~
+- [x] Abbildung der Kontrollstrukturen mittels Struktogramm, PAP oder Pseudocode als didaktisches Hilfsmittel
 - [ ] grundlegende Algorithmen kennen, eigene Algorithmen auch programmiersprachenfrei formulieren und zur Lösung von Problemen, z.B. in einem IT-System bzw. einer Softwareanwendung einsetzen
 - [ ] Entwickeln und Darstellen von Programmlogiken unabhängig von der Programmiersprache, z.B. mithilfe von Struktogrammen nach Nassi-Shneidermann sowie Strukturdiagrammen und Verhaltensdiagrammen aus der UML
 - [ ] Kontrollstrukturen
