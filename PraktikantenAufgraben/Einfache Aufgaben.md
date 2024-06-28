@@ -6,7 +6,7 @@ Speichern sie ihren Namen und ihr Alter in sinnvolle Variablen und geben sie die
 
 ## Aufgabe 2
 1) Berechnen Sie die Summe von 17 und 4 und geben Sie das Ergebnis aus. 
-2) Lesen Sie zwei beliebige Zahlen a und b ein und geben Sie die Summe aus. Die Ausgabe soll die folgende Form haben: „Die Summer von 123 und 234 ist 357.“
+2) Lesen Sie zwei beliebige Zahlen a und b ein und geben Sie die Summe aus. Die Ausgabe soll die folgende Form haben: „Die Summe von 123 und 234 ist 357.“
 
 ## Aufgabe 3
 1) Schreiben Sie ein Programm, welches die Quadratzahlen von 1 bis 100 aufaddiert und ausgibt. Nutzen sie eine for, eine while und eine do-while Schleife. 
