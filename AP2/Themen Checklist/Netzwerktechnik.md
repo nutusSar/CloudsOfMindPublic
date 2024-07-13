@@ -12,18 +12,18 @@ tags:
 - [ ] Auswerten, Dokumentieren und Weiterleiten von Informationen und Störungsmeldungen
 - [ ] Ergreifen von Maßnahmen zur Problembeseitigung und ggf. fachlicher Austausch mit Systemlieferanten
 - [ ] ggf. Weiterleitung zur jeweiligen Fachabteilung oder Systemspezialisten
-- [ ] Adressierung
-    - [ ] IPv4/IPv6, MAC, ARP
-- [ ] Routing, Switching
-- [ ] DNS, DHCP
-- [ ] TCP/UDP
-- [ ] HTTPS, TLS/SSL, IPsec
-    - [ ] Hash, Signatur, Zertifikat, Certificate Authority
+- [x] Adressierung
+    - [x] IPv4/IPv6, MAC, ARP
+- [x] Routing, Switching
+- [x] DNS, DHCP
+- [x] TCP/UDP
+- [x] HTTPS, TLS/SSL, IPsec
+    - [x] Hash, Signatur, Zertifikat, Certificate Authority
 - [ ] SMB, NFS
 - [ ] Ethernet, FibreChannel
 - [ ] Datenübertragungsraten
 - [ ] Verschlüsselung (pre-shared key, RADIUS …)
-- [ ] LAN/WAN/MAN/GAN
+- [x] LAN/WAN/MAN/GAN
 - [ ] Strukturierte Verkabelung
     - [ ] primäre/sekundäre/tertiäre Verkabelung
     - [ ] Kabeltypen
@@ -33,7 +33,7 @@ tags:
     - [ ] Fibre Channel, Lichtwellenleiter
     - [ ] DIN EN 50173-1
     - [ ] EM-Verträglichkeit
-- [ ] VLAN
+- [x] VLAN
 - [ ] Drahtlos: PAN/WLAN, Bluetooth
 - [ ] Sicherheitskonzepte und -risiken: WEP, WPA
 - [ ] Netzwerktopologien
@@ -49,8 +49,8 @@ tags:
 - [ ] ANR
 - [ ] Notfallkonzept (Disaster Recovery)
 - [ ] Sicherstellung des Betriebs
-    - [ ] Elektrotechnisch (USV)
-    - [ ] Hardwaretechnisch (Redundanzen), RAID
+    - [x] Elektrotechnisch (USV)
+    - [x] Hardwaretechnisch (Redundanzen), RAID
     - [ ] Softwaretechnisch (Back-ups…)
     - [ ] MTBF
 - [ ] SNMP, S.M.A.R.T. u.Ä.

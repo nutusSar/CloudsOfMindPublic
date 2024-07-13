@@ -3,8 +3,8 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] Datensicherheit (Authentifizierung, Autorisierung, Verschlüsselung)
-- [ ] Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen
+- [x] Datensicherheit (Authentifizierung, Autorisierung, Verschlüsselung)
+- [x] Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen
 - [ ] Für jede Anwendung, die verwendeten IT-Systeme und die verarbeiteten Informationen gilt: Betrachtung zu erwartender Schäden, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit entstehen könnten!
     - [ ] Imageschaden
     - [ ] Wirtschaftlicher Schaden
@@ -33,10 +33,10 @@ tags:
 - [ ] Device Security Check
 - [ ] Identity & Access Management (IAM)
 - [ ] Schwachstellenanalyse (z.B. Ende-zu-Ende-Verschlüsselung)
-- [ ] Zutritt vs. Zugang vs. Zugriff
-    - [ ] Zutrittskontrolle, z.B. Alarmanlage, Videoüberwachung, Besucherausweise
-    - [ ] Zugangskontrolle, z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte
-    - [ ] Zugriffskontrolle, z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept
+- [x] Zutritt vs. Zugang vs. Zugriff
+    - [x] Zutrittskontrolle, z.B. Alarmanlage, Videoüberwachung, Besucherausweise
+    - [x] Zugangskontrolle, z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte
+    - [x] Zugriffskontrolle, z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept
 - [ ] Log Management
 - [ ] Compliance Reports
 - [ ] unterschiedliche Gefahrenquellen, z.B. Stromausfall, Überhitzung, Virenbefall

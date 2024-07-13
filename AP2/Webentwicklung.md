@@ -40,7 +40,7 @@ Dynamische Websites sind Websites, deren Inhalte sich basierend auf Benutzerinte
 Web 2.0 ist ein Schlagwort, das für eine Reihe interaktiver und kollaborativer Elemente des Internets, speziell des World Wide Webs, verwendet wird. Dabei konsumiert der Nutzer nicht nur den Inhalt, er stellt als Prosument selbst Inhalt zur Verfügung.
 
 ### Social Networks
-Web 2.0 ist ein Schlagwort, das für eine Reihe interaktiver und kollaborativer Elemente des Internets, speziell des World Wide Webs, verwendet wird. Dabei konsumiert der Nutzer nicht nur den Inhalt, er stellt als Prosument selbst Inhalt zur Verfügung.
+Plattformen, die den Nutzern die Möglichkeit bieten, sich mit anderen Nutzern auszutauschen, Content zu erstellen, zu teilen und zu konsumieren.
 
 ### Wikis
 Ein Wiki ist eine kollaborative Website oder eine Software, die es Benutzern ermöglicht, gemeinsam Inhalte zu erstellen, zu bearbeiten und zu organisieren.

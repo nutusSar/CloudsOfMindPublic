@@ -3,10 +3,10 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] Prinzipien der OOP
-    - [ ] Begriffe der OOP erläutern: Attribut, Nachricht/Methodenaufruf, Persistenz, Schnittstelle/API/Interface, Polymorphie, Vererbung
-    - [ ] Bestandteile von Klassen
-    - [ ] Unterschied Klasse/Objekt
+- [x] Prinzipien der OOP
+    - [x] Begriffe der OOP erläutern: Attribut, Nachricht/Methodenaufruf, Persistenz, Schnittstelle/API/Interface, Polymorphie, Vererbung
+    - [x] Bestandteile von Klassen
+    - [x] Unterschied Klasse/Objekt
     - [ ] Unterschied Klasse/Interface
     - [ ] Erklärung Klassenbibliothek vs. Framework
     - [ ] Klassenbeziehungen: Assoziation, Aggregation, Komposition, Spezialisierung, Generalisierung

@@ -15,6 +15,6 @@ tags:
     - [x] Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, native Apps vs. HTML5/JavaScript, geringe Bandbreiten, kleine Auflösungen
 - [x] Angriffsmöglichkeiten gegen Anwendungen abgrenzen
     - [x] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
-- [ ] HTTP
-    - [ ] Methoden kennen und einordnen: safe/sicher, idempotent
-    - [ ] Status-Codes kennen (z.B. 200, 404)
+- [x] HTTP
+    - [x] Methoden kennen und einordnen: safe/sicher, idempotent
+    - [x] Status-Codes kennen (z.B. 200, 404)
