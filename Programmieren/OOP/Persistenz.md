@@ -5,7 +5,7 @@ tags:
   - "#OOP"
 ---
 ## Definition
-Persistenz bezieht sich auf die Fähigkeit, Daten dauerhaft zu speichern, sodass sie auch nach Beendigung des Programms oder einem Systemneustart verfügbar sind. Dies wird durch das Schreiben der Daten in eine dauerhafte Speicherlösung wie Datenbanken, Dateien oder andere Speichermechanismen erreicht.
+Persistenz bezieht sich auf die Fähigkeit, Daten dauerhaft zu speichern, sodass sie auch nach Beendigung des Programms oder einem Systemneustart verfügbar sind. Dies wird durch das Schreiben der Daten in eine dauerhafte Speicherlösung wie [[Datenbanken]], Dateien oder andere Speichermechanismen erreicht.
 
 ## Zweck
 Der Hauptzweck der Persistenz besteht darin, wichtige Informationen zu bewahren und wiederherzustellen, um die Kontinuität und den Zustand einer Anwendung zu gewährleisten. Persistenz ist besonders wichtig für Anwendungen, die mit großen Mengen an Daten arbeiten oder Zustandsinformationen zwischen verschiedenen Programmläufen behalten müssen.

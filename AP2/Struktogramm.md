@@ -35,3 +35,7 @@ Struktogramme, auch Nassi-Schneidermann-Diagramme genannt, eignen sich, um den A
 + https://studyflix.de/informatik/struktogramm-5715
 + https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm
 + **Grafiken**: https://app.strukto.io/
+
+## Backlinks
+[[AP2]]
+[[AP2/Algorithmen]]

@@ -9,12 +9,12 @@ tags:
 - [ ] Inbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen
 - [ ] Beachten von Schnittstellen zu weiteren Systemen
 - [ ] Datenquellen: nicht nur relationelle und schemafreie Datenbanken wie MySQL, MsSQL und MongoDB, sondern auch z. B. Sensoren, CSV-Dateien
-- [ ] Begriffe kennen und erläutern
-    - [ ] Redundanz
-    - [ ] Kardinalitäten: 1:1, 1:n, m:n
+- [x] Begriffe kennen und erläutern
+    - [x] Redundanz
+    - [x] Kardinalitäten: 1:1, 1:n, m:n
     - [ ] Primär-/Fremdschlüssel und andere Schlüsseltypen: anonym, künstlich/natürlich
     - [ ] referentielle Integrität (Aktualisierungsweitergabe, Löschweitergabe)
         - [ ] Maßnahmen bei Löschoperationen (Constraints): CASCADE, DENY/RESTRICT, SET NULL, (NO ACTION)
     - [ ] Tiefergehende Datenbankobjekte: Index, Stored Procedure, Trigger, Sequence
     - [ ] Replikation
-- [ ] ACID-Prinzipien für Transaktionen kennen und erläutern (atomicity, consistency, isolation, durability)
+- [x] ACID-Prinzipien für Transaktionen kennen und erläutern (atomicity, consistency, isolation, durability)

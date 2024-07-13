@@ -1,6 +1,7 @@
 ---
 tags:
   - "#AP2"
+  - "#Programmieren"
 ---
 ## Definition
 Ein Algorithmus ist eine Rechenvorschrift oder eine Abfolge von Anweisungen, die einem bestimmten Muster folgt, um ein Problem zu lösen. Ein Algorithmus ist immer endlich, das heißt, das Problem kann in einer endlichen Anzahl von Schritten gelöst werden.
@@ -19,5 +20,9 @@ PAPs visualisieren den Ablauf eines Programms oder Algorithmus in Form von Fluss
 ### Pseudocode
 Pseudocode ist eine textuelle Beschreibung eines Algorithmus, die keine spezifische Programmiersprache verwendet, aber die Logik und die Schritte des Algorithmus klar beschreibt. Pseudocode ist leicht lesbar und kann schnell in eine echte Programmiersprache umgesetzt werden.
 **Siehe auch**: [[Pseudocode]]
+
+
+## Vor- und Nachteile Rekursion
+
 
 

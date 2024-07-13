@@ -188,3 +188,7 @@ Web 3.0 ist ein Begriff, der verschiedene Konzepte und Entwicklungen beschreibt,
     
     - Der Server ist vorübergehend nicht in der Lage, die Anfrage zu bearbeiten, da er überlastet ist oder für Wartungsarbeiten offline ist.
 
+---
+## Backlinks
+[[AP2]]
+

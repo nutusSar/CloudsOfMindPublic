@@ -7,14 +7,14 @@ tags:
 - [x] Algorithmus: präzise (eigentlich von IT-Systemen unabhängige) Formulierung einer Verarbeitungsvorschrift
 - [ ] ~~Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen~~
 - [x] Abbildung der Kontrollstrukturen mittels Struktogramm, PAP oder Pseudocode als didaktisches Hilfsmittel
-- [ ] grundlegende Algorithmen kennen, eigene Algorithmen auch programmiersprachenfrei formulieren und zur Lösung von Problemen, z.B. in einem IT-System bzw. einer Softwareanwendung einsetzen
-- [ ] Entwickeln und Darstellen von Programmlogiken unabhängig von der Programmiersprache, z.B. mithilfe von Struktogrammen nach Nassi-Shneidermann sowie Strukturdiagrammen und Verhaltensdiagrammen aus der UML
+- [x] grundlegende Algorithmen kennen, eigene Algorithmen auch programmiersprachenfrei formulieren und zur Lösung von Problemen, z.B. in einem IT-System bzw. einer Softwareanwendung einsetzen
+- [x] Entwickeln und Darstellen von Programmlogiken unabhängig von der Programmiersprache, z.B. mithilfe von Struktogrammen nach Nassi-Shneidermann sowie Strukturdiagrammen und Verhaltensdiagrammen aus der UML
 - [ ] Kontrollstrukturen
-    - [ ] allgemeine Programmstrukturen identifizieren/erläutern (Verzweigungen, Schleifen etc.)
-    - [ ] Merkmale/Unterschiede von Kontrollstrukturen (Schleifen, Fallunterscheidungen)
-    - [ ] grundlegende Kontrollstrukturen in allen Diagrammformen darstellen können: Pseudocode, Struktogramm/Nassi-Shneiderman, Programmablaufplan (PAP)
+    - [x] allgemeine Programmstrukturen identifizieren/erläutern (Verzweigungen, Schleifen etc.)
+    - [x] Merkmale/Unterschiede von Kontrollstrukturen (Schleifen, Fallunterscheidungen)
+    - [x] grundlegende Kontrollstrukturen in allen Diagrammformen darstellen können: Pseudocode, Struktogramm/Nassi-Shneiderman, Programmablaufplan (PAP)
     - [ ] Zustandsübergänge eines Zustandsautomaten abbilden
-- [ ] Rekursion: Funktionsweise, Vor-/Nachteile
+- [x] Rekursion: Funktionsweise, Vor-/Nachteile
 - [ ] Algorithmen implementieren/durchspielen
     - [ ] Mittelwert
     - [ ] doppelte Einträge in einem Array finden/löschen
