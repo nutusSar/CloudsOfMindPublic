@@ -6,7 +6,7 @@ tags:
 - [x] Datentypen: Boolesche Werte, Ganzzahl, Gleitkommawerte, Währung, Datumswerte, Texte fester und variabler Länge, BLOB, Geokoordinaten
 - [x] OpenData, API-Schnittstellen
 - [x] Berücksichtigung vorhandener Datenbank- und Speicherkonzepte bei der Integration und Erweiterung von Bestandssystemen
-- [ ] Inbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen
+- [x] Inbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen
 - [x] Beachten von Schnittstellen zu weiteren Systemen
 - [x] Datenquellen: nicht nur relationelle und schemafreie Datenbanken wie MySQL, MsSQL und MongoDB, sondern auch z. B. Sensoren, CSV-Dateien
 - [x] Begriffe kennen und erläutern
@@ -15,6 +15,6 @@ tags:
     - [x] Primär-/Fremdschlüssel und andere Schlüsseltypen: anonym, künstlich/natürlich
     - [x] referentielle Integrität (Aktualisierungsweitergabe, Löschweitergabe)
         - [x] Maßnahmen bei Löschoperationen (Constraints): CASCADE, DENY/RESTRICT, SET NULL, (NO ACTION)
-    - [ ] Tiefergehende Datenbankobjekte: Index, Stored Procedure, Trigger, Sequence
-    - [ ] Replikation
+    - [x] Tiefergehende Datenbankobjekte: Index, Stored Procedure, Trigger, Sequence
+    - [x] Replikation
 - [x] ACID-Prinzipien für Transaktionen kennen und erläutern (atomicity, consistency, isolation, durability)

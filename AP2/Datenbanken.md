@@ -93,8 +93,34 @@ Somit würde man diese Relationsschema aufteilen in 2 Relationsschemen.
 + **BLOB (Binary Large Object)**: Datentyp für große binäre Daten, wie Bilder oder Videos.
 + **Geokoordinaten**: Datentyp zur Speicherung von Längen- und Breitengraden für geografische Positionen.
 
+## Datenobjekte
+### Index
+Ein Index ist ein Datenbankobjekt, das die Suchgeschwindigkeit und Abfrageleistung verbessert, indem es einen schnellen Zugriff auf die Daten in einer Tabelle ermöglicht. Indizes funktionieren ähnlich wie ein Inhaltsverzeichnis in einem Buch, indem sie eine geordnete Liste der Schlüsselwerte und ihrer Speicherorte in der Tabelle erstellen. Sie können auf eine oder mehrere Spalten einer Tabelle angewendet werden und sind besonders nützlich für häufige Abfragen.
+
+### Stored Procedure
+Eine Stored Procedure ist eine vordefinierte SQL-Routine, die im Datenbankmanagementsystem gespeichert und ausgeführt wird. Sie kann mehrere SQL-Anweisungen enthalten und unterstützt Eingabe- sowie Ausgabeparameter. Stored Procedures helfen, wiederkehrende Aufgaben zu automatisieren, die Konsistenz zu wahren und die Effizienz der Datenbankabfragen zu verbessern, indem sie die Menge der zu sendenden Daten zwischen Anwendung und Datenbank minimieren.
+
+### Trigger
+Ein Trigger ist ein spezielles Datenbankobjekt, das eine Aktion automatisch auslöst, wenn bestimmte Ereignisse in der Datenbank eintreten, wie das Einfügen, Aktualisieren oder Löschen von Daten in einer Tabelle. Trigger können verwendet werden, um Datenintegrität zu gewährleisten, Auditing durchzuführen, Geschäftsregeln zu erzwingen oder komplexe Standardoperationen zu automatisieren.
+
+### Sequence
+Eine Sequence ist ein Datenbankobjekt, das eine fortlaufende Sequenz von eindeutigen Zahlen generiert, die häufig als Primärschlüssel oder für andere Zwecke verwendet werden, die eindeutige Werte erfordern. Sequences sind unabhängig von Tabellen und können von mehreren Anwendungen oder Benutzern gleichzeitig genutzt werden, um eindeutige Werte zu erzeugen, ohne dass Konflikte entstehen.
+
+## Inbetriebnahme von Speicherlösungen und Integration von Datenbanksystemen 
+Die "Inbetriebnahme von [[Speicherlösungen]] und Integration von Datenbanksystemen" umfasst die Einrichtung und Konfiguration von Speichermedien und die nahtlose Einbindung von Datenbanksystemen zur effizienten Datenverwaltung. Dabei werden Speicherlösungen wie Festplatten, SSDs oder Cloud-Speicher installiert und konfiguriert. Anschließend erfolgt die Integration von Datenbanksystemen wie MySQL, PostgreSQL oder Oracle, um Daten sicher und performant zu speichern und abzurufen. 
+
+**Beispiel:** Ein Unternehmen richtet einen neuen Server mit mehreren SSDs als Speichermedien ein. Nachdem die SSDs formatiert und partitioniert wurden, wird eine MySQL-Datenbank installiert und konfiguriert. Die Datenbank wird dann so eingerichtet, dass sie automatisch Daten auf den SSDs speichert und darauf zugreift. Dies ermöglicht dem Unternehmen eine schnelle und zuverlässige Datenverwaltung, die für Anwendungen und Benutzer zugänglich ist.
+
 ## Umgang bei Integragtion/Erweiterung
 Bei der Integration und Erweiterung von Bestandssystemen ist es entscheidend, vorhandene Datenbank- und Speicherkonzepte sorgfältig zu berücksichtigen. Dies beinhaltet die Analyse der bestehenden Datenstruktur, Datenformate, Zugriffsmethoden und Integrationspunkte. Durch die Einhaltung etablierter Konzepte wie Datenbanknormalisierung, gute Indexierung, effiziente Speicherverwaltung und die Sicherstellung der Datenkonsistenz können Kompatibilitätsprobleme minimiert und die Leistung optimiert werden. Darüber hinaus sollten Erweiterungen so gestaltet werden, dass sie die Skalierbarkeit des Systems unterstützen und zukünftige Anforderungen problemlos integrieren können, ohne die Integrität oder Sicherheit der vorhandenen Daten zu beeinträchtigen.
+
+## Replikation
+Replikation ist der Prozess, bei dem Daten von einer Datenbank auf eine oder mehrere andere Datenbanken kopiert und synchronisiert werden. Dies geschieht, um die Verfügbarkeit und Zuverlässigkeit der Daten zu erhöhen sowie die Lastverteilung und Skalierbarkeit zu verbessern. Es gibt verschiedene Arten der Replikation:
+
+- **Master-Slave-Replikation**: Eine Hauptdatenbank (Master) repliziert Daten auf eine oder mehrere sekundäre Datenbanken (Slaves). Änderungen werden nur am Master vorgenommen und dann auf die Slaves repliziert.
+- **Master-Master-Replikation**: Mehrere Datenbanken fungieren gleichzeitig als Master, und Änderungen können an jeder Master-Datenbank vorgenommen werden. Diese Änderungen werden dann zwischen den Master-Datenbanken synchronisiert.
+- **Synchrone Replikation**: Daten werden gleichzeitig auf die Ziel-Datenbanken repliziert, wodurch die Konsistenz gewährleistet wird.
+- **Asynchrone Replikation**: Daten werden zeitverzögert repliziert, was die Performance erhöht, aber zu einer kurzzeitigen Inkonsistenz zwischen den Datenbanken führen kann.
 
 ## Betrachten von Schnittstellen
 Das Beachten von Schnittstellen zu weiteren Systemen ist ein wichtiger Aspekt bei der Integration von Speicherlösungen und Datenbanksystemen. Es erfordert eine genaue Analyse und Planung, um sicherzustellen, dass die neuen Systeme nahtlos mit bestehenden oder zukünftigen Systemen kommunizieren können. Dies beinhaltet die Berücksichtigung von APIs (Application Programming Interfaces) und anderen Kommunikationsstandards, um Daten effizient auszutauschen und Interoperabilität sicherzustellen. Durch die Einhaltung solcher Schnittstellenstandards können Integrationsprobleme minimiert und die Integration neuer Funktionen oder Systeme erleichtert werden, ohne die Stabilität oder Sicherheit des Gesamtsystems zu gefährden.
@@ -109,11 +135,6 @@ Das Beachten von Schnittstellen zu weiteren Systemen ist ein wichtiger Aspekt be
 | **Datenformat**        | Fest definierte Strukturen in Tabellenformaten.                                               | Variabler Datensatzformat; unterstützt unstrukturierte und halbstrukturierte Daten.         | Echtzeitdaten in verschiedenen Formaten wie numerische Werte, Texte, Bilder usw. | Textbasiertes Format mit Trennzeichen wie Komma, semikolon, oder Tabulator.                 |
 | **Anwendungsbereiche** | Geeignet für Anwendungen, die komplexe Abfragen, Transaktionen und Datenintegrität erfordern. | Gut geeignet für Big Data, IoT-Anwendungen und Projekte mit unvorhersehbarem Datenwachstum. | IoT, Überwachung, Umweltüberwachung, Gesundheitswesen, Verkehrsmanagement usw.   | Datenaustausch zwischen verschiedenen Systemen und einfache Archivierung von Tabellendaten. |
 
-
----
-## Backlinks
-[[AP2]]
-[[Persistenz]]
 
 
 

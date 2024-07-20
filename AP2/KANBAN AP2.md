@@ -19,7 +19,6 @@ kanban-plugin: basic
 - [ ] [[AP2/Themen Checklist/Softwareentwicklung]]
 - [ ] [[AP2/Themen Checklist/Softwareergonomie]]
 - [ ] [[AP2/Themen Checklist/Softwarequalität]]
-- [ ] [[AP2/Themen Checklist/Speicherlösungen]]
 - [ ] [[AP2/Themen Checklist/SQL]]
 - [ ] [[AP2/Themen Checklist/Testen]]
 - [ ] [[AP2/Themen Checklist/Trends]]
@@ -30,13 +29,14 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[AP2/Themen Checklist/Algorithmen]]
-- [ ] [[AP2/Themen Checklist/Datenbanken]]
+- [ ] [[AP2/Themen Checklist/Speicherlösungen]]
 
 
 ## Review
 
 - [ ] [[AP2/Themen Checklist/IT-Sicherheit]]
 - [ ] [[AP2/Themen Checklist/Datenschutz]]
+- [ ] [[AP2/Themen Checklist/Datenbanken]]
 
 
 ## Done
