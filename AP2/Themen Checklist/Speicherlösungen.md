@@ -3,13 +3,14 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren
++ [x] Definition
+- [x] Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren
 - [ ] Speicherlösungen, insbesondere Datenbanksysteme, integrieren
-- [ ] Zugangskontrollen (z.B. Gebäude, Serverraum, Schrank)
-- [ ] Implementierung und Inbetriebnahme des Zugriffs auf lokale und vernetzte Speicherlösungen sowie vernetzten Systemen, z.B. SAN, NAS, DAS
-- [ ] Berücksichtigung der Organisationsstrukturen im Unternehmen unter Beachtung von örtlichen Vorgaben
-- [ ] Usermanagement
-- [ ] Verschlüsselung (TPM)
+- [x] Zugangskontrollen (z.B. Gebäude, Serverraum, Schrank)
+- [x] Implementierung und Inbetriebnahme des Zugriffs auf lokale und vernetzte Speicherlösungen sowie vernetzten Systemen, z.B. SAN, NAS, DAS
+- [x] Berücksichtigung der Organisationsstrukturen im Unternehmen unter Beachtung von örtlichen Vorgaben
+- [x] Usermanagement
+- [x] Verschlüsselung (TPM)
 - [ ] Fog, Cloud
 - [ ] SaaS, XaaS
 - [ ] Data Warehouse
