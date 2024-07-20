@@ -29,7 +29,6 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[AP2/Themen Checklist/Algorithmen]]
-- [ ] [[AP2/Themen Checklist/Speicherlösungen]]
 
 
 ## Review
@@ -37,6 +36,7 @@ kanban-plugin: basic
 - [ ] [[AP2/Themen Checklist/IT-Sicherheit]]
 - [ ] [[AP2/Themen Checklist/Datenschutz]]
 - [ ] [[AP2/Themen Checklist/Datenbanken]]
+- [ ] [[AP2/Themen Checklist/Speicherlösungen]]
 
 
 ## Done

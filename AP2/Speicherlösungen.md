@@ -67,8 +67,8 @@ Die Implementierung und Inbetriebnahme von Speicherlösungen erfordert eine sorg
 ### 1. Bedarfsanalyse und Planung
 + **Bedarfsanalyse**: Bestimmen Sie den Speicherbedarf, die Performance-Anforderungen und die spezifischen Anforderungen Ihrer Anwendungen.
 + **Auswahl der Speicherlösung**: Wählen Sie die passende Speicherlösung basierend auf den Anforderungen:
-	+ **SAN (Storage Area Network)**: Ideal für Hochleistungsanwendungen mit hohem Datenaufkommen und Bedarf an Block-Level-Zugriff.
-	+ **NAS (Network Attached Storage)**: Geeignet für Datei-Level-Zugriff und einfache Dateifreigabe über ein Netzwerk.
+	+ **[SAN (Storage Area Network)](SAN%20und%20NAS)**: Ideal für Hochleistungsanwendungen mit hohem Datenaufkommen und Bedarf an Block-Level-Zugriff.
+	+ **[NAS (Network Attached Storage)](SAN%20und%20NAS)**: Geeignet für Datei-Level-Zugriff und einfache Dateifreigabe über ein Netzwerk.
 	+ **DAS (Direct Attached Storage)**: Bietet direkte Verbindung zu einem Server, ideal für Anwendungen, die hohe Leistung und geringen Latenz benötigen.
 
 ### 2. Hardware- und Software-Vorbereitung
@@ -165,7 +165,13 @@ Usermanagement bezeichnet die Verwaltung und Organisation von Benutzerkonten und
 ## Trusted Platform Module (TPM)
 [[TPM]] kann zur Verbesserung der Sicherheit von Speicherlösungen beitragen, indem es eine hardwarebasierte Verschlüsselung und sicheren Schlüsselmanagement bereitstellt. Es schützt gespeicherte Daten durch sichere Speicherung und Verwaltung von Verschlüsselungsschlüsseln, gewährleistet die Integrität der Daten und des Systems und unterstützt den Schutz von Daten bei der Speicherung auf lokalen und vernetzten Speichern.
 
-## Fog und Cloud
+## Fog und [Cloud](Cloudcomputing)
+### Definition
+**Cloud Computing:** Cloud Computing bezeichnet die Bereitstellung von IT-Ressourcen wie Rechenleistung, Speicher und Anwendungen über das Internet von zentralisierten Rechenzentren aus. Diese Ressourcen können flexibel skaliert und von überall mit Internetverbindung genutzt werden.
+
+**Fog Computing:** Fog Computing ist ein verteiltes Computing-Modell, das Rechenleistung und Speicher näher an den Endgeräten oder Datenquellen bereitstellt. Es ergänzt das Cloud Computing, indem es Daten lokal verarbeitet, um Latenz zu reduzieren und Echtzeit-Analysen zu
+### Gegenüberstellung
+
 | **Merkmal**            | **Fog Computing**                                                                                                                 | **Cloud Computing**                                                                        |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Speicherort**        | Dezentrale lokale Geräte und Gateways                                                                                             | Zentralisierte Rechenzentren oder Cloud-Datenzentren                                       |
@@ -179,3 +185,25 @@ Usermanagement bezeichnet die Verwaltung und Organisation von Benutzerkonten und
 | **Verfügbarkeit**      | Abhängig von der Verfügbarkeit und Wartung lokaler Geräte und Netzwerke                                                           | Hohe Verfügbarkeit und Redundanz durch Cloud-Infrastruktur                                 |
 | **Flexibilität**       | Flexibilität durch die Verteilung der Speicherressourcen auf verschiedene Knoten                                                  | Hohe Flexibilität bei der Skalierung von Speicher und Zugriff                              |
 | **Datenverarbeitung**  | Echtzeitverarbeitung durch lokale Knoten kann schnelle Reaktionen ermöglichen                                                     | Zentrale Datenverarbeitung kann große Datenmengen effizient verarbeiten                    |
+
+## SaaS und XaaS
+| **Merkmal**           | **SaaS (Software as a Service)**                                                               | **XaaS (Anything as a Service)**                                                            |
+|-----------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Definition**        | Bereitstellung von Software-Anwendungen über das Internet                                     | Bereitstellung von IT-Ressourcen und -Dienstleistungen über das Internet                   |
+| **Speicherort**       | Speicher in Rechenzentren des SaaS-Anbieters                                                    | Verschiedene Speicherorte abhängig vom spezifischen XaaS-Modell (z.B. IaaS, PaaS, SaaS)  |
+| **Verwaltung**        | Anbieter verwaltet Speicher und Daten                                                            | Verwaltung variiert je nach XaaS-Modell: Anbieter oder Nutzer sind verantwortlich          |
+| **Skalierbarkeit**    | Anbieter skaliert Speicher nach Bedarf                                                           | Flexibilität in der Skalierung je nach Modell und Bedarf des Nutzers                       |
+| **Zugriff**           | Zugang zu Daten über die SaaS-Anwendung                                                          | Zugriff auf Speicher je nach Dienstmodell und Infrastruktur                                |
+Siehe auch: [[Cloudcomputing]]
+
+## Data Warehouse
+**Siehe auch**: [[Data Warehouse und Data Lake]]
++ **Datenstrukturierung:** Daten werden in strukturierten Formaten wie relationalen Tabellen gespeichert.
++ **Verwaltung:** Speicher wird typischerweise in zentralen, leistungsfähigen Rechenzentren bereitgestellt und optimiert für schnelle Datenabfragen und -analysen.
++ **Zugriffsmodell:** Daten werden vor der Speicherung aufbereitet, was einen schnellen und effizienten Zugriff auf strukturierte Daten ermöglicht.
+
+## Data Lake
+**Siehe auch**: [[Data Warehouse und Data Lake]]
++ **Datenvielfalt:** Unterstützt die Speicherung von unstrukturierten, semi-strukturierten und strukturierten Daten in ihrem Rohformat.
++ **Verwaltung:** Oft kostengünstige und skalierbare Speicherlösungen, wie Cloud-Speicher, die große Datenmengen flexibler speichern.
++ **Zugriffsmodell:** Daten werden in ihrem ursprünglichen Format gespeichert und erst beim Zugriff analysiert, was eine hohe Flexibilität für unterschiedliche Datenarten bietet.
