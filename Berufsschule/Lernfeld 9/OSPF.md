@@ -1,3 +1,10 @@
+---
+tags:
+  - "#Berufsschule"
+  - "#Lernfeld9"
+  - "#Netzwerktechnik"
+---
+
 ## Definition
 **O**pen **S**hortest **P**ath **F**irst
 

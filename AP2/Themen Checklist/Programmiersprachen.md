@@ -3,9 +3,9 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-[- [  ] Programmierparadigmen: unstrukturiert, strukturiert, prozedural, funktional, objektorientiert, logisch
+- [ ] Programmierparadigmen: unstrukturiert, strukturiert, prozedural, funktional, objektorientiert, logisch
 - [ ] Programmiersprachen vergleichen
-    - [ ] Compiler vs. Interpreter
+    - [x] Compiler vs. Interpreter
     - [ ] Programmierparadigma
     - [ ] Typisierung: statisch/dynamisch, stark/schwach
     - [ ] Syntax: z.B. C-ähnlich

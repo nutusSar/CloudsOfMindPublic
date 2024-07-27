@@ -1,3 +1,10 @@
+---
+tags:
+  - "#Berufsschule"
+  - "#Lernfeld9"
+  - "#Netzwerktechnik"
+---
+
 ## Routingprotokolle
 Routingprotokolle werden von Routern genutzt, um Informationen über erreichbare Netze (Routen) auszutauschen. Eine solche Route könnte wie folgt aussehen:
 ```cli

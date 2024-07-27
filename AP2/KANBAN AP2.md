@@ -7,11 +7,6 @@ kanban-plugin: basic
 ## ToDo
 
 - [ ] [[AP2/Themen Checklist/Datenbankmodelle und -modellierung]]
-- [ ] [[AP2/Themen Checklist/Kundenbeziehungen]]
-- [ ] [[AP2/Themen Checklist/Netzwerktechnik]]
-- [ ] [[AP2/Themen Checklist/Objektorientierung]]
-- [ ] [[AP2/Themen Checklist/Präsentieren]]
-- [ ] [[AP2/Themen Checklist/Programmiersprachen]]
 - [ ] [[AP2/Themen Checklist/Qualitätssicherung]]
 - [ ] [[AP2/Themen Checklist/Schnittstellen, APIs, Datenaustausch]]
 - [ ] [[AP2/Themen Checklist/Software Engineering]]
@@ -29,6 +24,9 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[AP2/Themen Checklist/Algorithmen]]
+- [ ] [[AP2/Themen Checklist/Netzwerktechnik]]
+- [ ] [[AP2/Themen Checklist/Objektorientierung]]
+- [ ] [[AP2/Themen Checklist/Programmiersprachen]]
 
 
 ## Review
@@ -37,6 +35,8 @@ kanban-plugin: basic
 - [ ] [[AP2/Themen Checklist/Datenschutz]]
 - [ ] [[AP2/Themen Checklist/Datenbanken]]
 - [ ] [[AP2/Themen Checklist/Speicherlösungen]]
+- [ ] [[AP2/Themen Checklist/Kundenbeziehungen]]
+- [ ] [[AP2/Themen Checklist/Präsentieren]]
 
 
 ## Done

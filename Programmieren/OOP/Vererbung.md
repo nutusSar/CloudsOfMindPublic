@@ -3,6 +3,7 @@ tags:
   - "#AP1"
   - "#Programmieren"
   - "#OOP"
+  - "#AP2"
 ---
 ## Definition
 Vererbung ist ein Mechanismus, durch den eine Klasse (Unterklasse) Eigenschaften und Verhaltensweisen (Attribute und Methoden) von einer anderen Klasse (Oberklasse) übernimmt. Die Unterklasse kann zusätzlich eigene Eigenschaften und Verhaltensweisen definieren oder geerbte Methoden überschreiben.

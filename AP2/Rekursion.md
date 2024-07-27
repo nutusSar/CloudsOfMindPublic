@@ -30,6 +30,3 @@ Unter dem Begriff Rekursion verbirgt sich der Prozess einer Funktion, die sich s
 ---
 ## Quellen
 + https://databasecamp.de/python/rekursion
-
-## Backlinks
-[[AP2]]

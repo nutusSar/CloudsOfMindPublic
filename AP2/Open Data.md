@@ -1,3 +1,8 @@
+---
+tags:
+  - "#AP2"
+---
+
 ## Definition
 Open Data bezieht sich auf Daten, die frei zugänglich und öffentlich verfügbar sind, oft von Regierungsbehörden, internationalen Organisationen, Unternehmen oder gemeinnützigen Organisationen bereitgestellt. Diese Daten werden typischerweise unter offenen Lizenzen veröffentlicht, die ihre Nutzung, Weiterverbreitung und Modifikation durch jedermann ermöglichen.
 

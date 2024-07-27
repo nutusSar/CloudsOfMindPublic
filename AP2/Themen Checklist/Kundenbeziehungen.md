@@ -3,12 +3,12 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] Kundenbeziehungen unter Beachtung rechtlicher Regelungen und betrieblicher Grundsätze gestalten
-- [ ] Kundengespräche strukturiert vorbereiten, durchführen und nachbereiten
-- [ ] konsequente Kundenausrichtung und systematische Gestaltung der Kundenbeziehungsprozesse („Relationship Marketing“)
-- [ ] Dokumentation und Verwaltung von Kundenbeziehungen („Customer Relationship Management“)
-- [ ] Gesetz gegen unlauteren Wettbewerb
-- [ ] AGB-Gesetz
-- [ ] Regelkonformität
-- [ ] Berücksichtigung der geltenden Compliance-Regelungen
-- [ ] Ethik
+- [x] Kundenbeziehungen unter Beachtung rechtlicher Regelungen und betrieblicher Grundsätze gestalten
+- [x] Kundengespräche strukturiert vorbereiten, durchführen und nachbereiten
+- [x] konsequente Kundenausrichtung und systematische Gestaltung der Kundenbeziehungsprozesse („Relationship Marketing“)
+- [x] Dokumentation und Verwaltung von Kundenbeziehungen („Customer Relationship Management“)
+- [x] Gesetz gegen unlauteren Wettbewerb
+- [x] AGB-Gesetz
+- [x] Regelkonformität
+- [x] Berücksichtigung der geltenden Compliance-Regelungen
+- [x] Ethik
