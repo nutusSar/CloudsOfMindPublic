@@ -15,7 +15,7 @@ tags:
 
 ### 4. **K**: Nenne zwei Vorteile der aktuellsten Versionen 12 und 13
 **Android 12**:
-+ Einfacher zu sehen ob auf auf Kamera und Mikrofon zugegriffen wird
++ Einfacher zu sehen ob auf Kamera und Mikrofon zugegriffen wird
 + Personalisierte Benutzeroberflächen "Materials You"
 
 **Android 13**:
