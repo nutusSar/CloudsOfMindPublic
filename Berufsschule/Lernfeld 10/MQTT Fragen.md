@@ -36,7 +36,7 @@ Wird im Umfeld des IoT genutzt, um eine einfache Kommunikation zwischen Geräten
 + **M**essage **Q**ueuing **T**elemetry **T**ransport
 
 ## 7. Wie viele QoS Level gibt es bei MQTT?
-+ Es sind 3 **Q**uality **o**f **S**ervice Level vorhanden
+Es sind 3 **Q**uality **o**f **S**ervice Level vorhanden.
 
 ## 8. 
 

@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -18,7 +18,6 @@ kanban-plugin: basic
 - [ ] [[AP2/Themen Checklist/Testen]]
 - [ ] [[AP2/Themen Checklist/Trends]]
 - [ ] [[AP2/Themen Checklist/UML]]
-- [ ] [[AP2/Themen Checklist/Versionsverwaltung]]
 
 
 ## In Progress
@@ -45,12 +44,13 @@ kanban-plugin: basic
 - [x] [[AP2/Themen Checklist/Webentwicklung]]
 - [x] [[AP2/Themen Checklist/Design Patterns]]
 - [x] [[AP2/Themen Checklist/Normalisierung]]
+- [x] [[AP2/Themen Checklist/Versionsverwaltung]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

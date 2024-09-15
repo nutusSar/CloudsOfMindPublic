@@ -10,7 +10,7 @@ Struktogramme, auch Nassi-Schneidermann-Diagramme genannt, eignen sich, um den A
 + **Deklaration**: Ursprünglich für prozedurale Programme gedacht, daher decken Struktogramme nur den Prozedurteil ab und nicht den Deklarationsbereich von Variablen.
 + **Allgemeingültigkeit**: Struktogramme sollen keine programmspezifischen Anweisungen enthalten, d.h., sie sind unabhängig von einer Programmiersprache zu formulieren.
 
-## Zeichensatz nach  Nassi-Shneidermann
+## Zeichensatz nach Nassi-Shneidermann
 ### IF-Else
 ![[Pasted image 20240615121825.png]]
 
@@ -35,7 +35,3 @@ Struktogramme, auch Nassi-Schneidermann-Diagramme genannt, eignen sich, um den A
 + https://studyflix.de/informatik/struktogramm-5715
 + https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm
 + **Grafiken**: https://app.strukto.io/
-
-## Backlinks
-[[AP2]]
-[[AP2/Algorithmen]]

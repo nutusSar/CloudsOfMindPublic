@@ -22,7 +22,5 @@ Pseudocode ist eine textuelle Beschreibung eines Algorithmus, die keine spezifis
 **Siehe auch**: [[Pseudocode]]
 
 
-## Vor- und Nachteile Rekursion
-
 
 

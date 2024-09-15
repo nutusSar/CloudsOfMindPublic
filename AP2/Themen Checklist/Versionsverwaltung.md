@@ -3,10 +3,11 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] Werkzeuge zur Versionsverwaltung einsetzen
-- [ ] Eigenschaften eines Versionsverwaltungssystems beschreiben
-    - [ ] SVN, CVS, TFS mit Source Safe, Git
-    - [ ] VCS vs. DVCS
-- [ ] Nutzen und Anwenden einschlägiger Systeme, z.B. Git
-- [ ] Funktionen, z.B. Commit, Revert, Branch, Merge, Cherry-Pick, Pull/Push, Rebase
-- [ ] Übliche Workflows im Team, z.B. Pull/Merge Requests
+- [x] Definition
+- [x] Werkzeuge zur Versionsverwaltung einsetzen
+- [x] Eigenschaften eines Versionsverwaltungssystems beschreiben
+    - [x] SVN, CVS, TFS mit Source Safe, Git
+    - [x] VCS vs. DVCS
+- [ ] ~~Nutzen und Anwenden einschlägiger Systeme, z.B. Git~~
+- [x] Funktionen, z.B. Commit, Revert, Branch, Merge, Cherry-Pick, Pull/Push, Rebase
+- [x] Übliche Workflows im Team, z.B. Pull/Merge Requests
