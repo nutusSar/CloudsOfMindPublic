@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#Lernfeld10_11_12"
   - "#Berufsschule"
+  - "#Lernfeld10_11_12"
 ---
 ## 1. Wofür wird MQTT genutzt?
 Wird im Umfeld des IoT genutzt, um eine einfache Kommunikation zwischen Geräten zu ermöglichen. 
