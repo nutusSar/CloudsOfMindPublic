@@ -15,8 +15,8 @@ Wird im Umfeld des IoT genutzt, um eine einfache Kommunikation zwischen Geräten
 + **Zuverlässige Verbindung**: Funktioniert auch in instabilen Netzwerken zuverlässig, was besonders in Industrieanlagen von Vorteil ist, um die Informationen von Sensoren zuverlässig zu erhalten.
 
 ## 3. Erkläre das Publish/Subscribe Pattern.
-+ Daten werden z.B. von Sensoren an einen Broker gesendet. Diese sind dort public mit einer Adresse versehen.
-+ Andere Geräte können auf diese Adressen zugreifen und die Werte dann nach belieben beim Broker Anfragen und auslesen. Sie "Subscriben" also auf die Adressen für die Daten, die für sie von Interesse sind.
++ Daten werden z.B. von Sensoren an einen Broker gesendet. Diese sind dort public mit einem Topic versehen.
++ Andere Geräte Subscribern auf die Topics für die Daten, die für sie von Interesse sind. Der Broker informiert die Subscriber über Änderung der Daten und teilt ihnen die neue Daten mit.
 + Die komplette Kommunikation läuft also über den Broker ab.
 
 ## 4. 
@@ -38,5 +38,7 @@ Wird im Umfeld des IoT genutzt, um eine einfache Kommunikation zwischen Geräten
 ## 7. Wie viele QoS Level gibt es bei MQTT?
 Es sind 3 **Q**uality **o**f **S**ervice Level vorhanden.
 
-## 8. 
-
+## 8. Erkläre kurz die einzelnen Leveln bei MQTT
++ **At most once**: (QoS 0) Sender erwartet keine Empfangsbestätigung -> Nachricht wird einmal gesendet
++ **At least once**: (QoS 1) Kopie der Nachricht wird solange aufbewahrt, bis eine Empfangsbestätigung eingeht. Bei einer Zeitüberschreitung wird die Nachricht erneut gesendet. 
++ **Exactly once**: (QoS 2) 4-Way-Handshake, soll versichern, dass Nachrichten genau einmal verarbeitet werden.

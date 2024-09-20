@@ -56,12 +56,9 @@ ISO/IEC 25000 ersetzte ISO/IEC 9126, denn sie umfasst nicht nur die Software-Qua
 Der Begriff "Gebrauchstauglichkeit" hängt stark von den individuellen Erfahrungen und Erwartungen des Benutzers ab. 
 Denn für den einen Benutzer kann die intuitiv Anwendung verwendet werden, während sie für den nächste Komplex erscheint. Somit kann keine objektive Bewertung/Messung stattfinden.
 ## 5. Über welchen Schnittstellen werden Software-Anforderungen (Software Requirements Specification) beschrieben?
-+ **Benutzerschnittstellen**: Definieren die Interaktion zwischen der Software und dem Benutzer durch grafische oder textbasierte Oberflächen.
-+ **Systemschnittstellen**: Beschreiben, wie die Software mit anderen Systemen oder Plattformen über APIs oder Webservices kommuniziert.
-+ **Hardwareschnittstellen**: Bestimmen, wie die Software mit der physischen Hardware wie Druckern, Sensoren oder anderen Geräten interagiert.
-+ **Kommunikationsschnittstellen**: Legen fest, welche Protokolle und Kommunikationsmethoden für den Datenaustausch zwischen Systemen genutzt werden.
-+ **Softwareschnittstellen**: Definieren die interne Kommunikation zwischen verschiedenen Softwaremodulen oder externen Anwendungen.
-[Quelle](https://en.wikipedia.org/wiki/Software_requirements_specification#Structure)
++ **Nutzer-System-Schnittstellen (UI)**: Schnittstellen zwischen einem Nutzer und dem System/der Anwendung
++ **System-System-Schnittstellen**: 
++ **Laufzeit-Schnittstellen**:
 
 ## 6. Welches Problem ergibt sich bei der Prüfung der "Wartbarkeit"?
 + Schwer Messbar, da die Wartbarkeit von vielen verschiedenen Faktoren wie Modularität, Codequalität, Dokumentation etc. abhängt.
