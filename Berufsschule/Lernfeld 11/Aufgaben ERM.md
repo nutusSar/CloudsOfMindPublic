@@ -20,11 +20,12 @@ Messstation}|--||Verarbeitungszentrum: sendet
 Messstation}|--||Region: steht
 Region||--|{Mitarbeiter: kuemmern
 Messstation||--|{Messgeraete: enthaelt
+Wetterelement}|--|{Messstation: erfasst
 
 
 ```
 
 ## Aufgabe 3
-+ **Datenredundanz**: Gleiche Daten sind mehrmals an verschiedenen Stellen vorhanden
-+ **Normalisierung**: Tabellen die in eine gewisse Norm überführt wird um verschiedene Regeln einzuhalten
++ **Datenredundanz**: Mehrfach vorhanden sein der selben Information in einer Datenbank
++ **Normalisierung**: Prozess zur Herstellung der Datenintegrität in einer Datenbank.
 + **Primärschlüssel**: Hauptschlüssel; Identifikator, an dem ein Objekt eindeutig erkannt werden kann.
