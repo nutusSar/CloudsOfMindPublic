@@ -20,3 +20,4 @@ Dabei handelt es sich um die grundliegenden Bausteine aus denen die Designs in F
 Elemente können in verschiedene Ebenen gebracht werden. Diese ebenen bestimmen welches Element das andere überdeckt. Vergleichbar mit dem z-index in css.
 
 ### Setting
+Die Design-Settings in Figma erlauben es, Layout-Gitter zu erstellen und Farbschemata für ein einheitliches Erscheinungsbild festzulegen. Hier können auch Typografie-Optionen wie Schriftarten, Schriftgrößen und Zeilenabstände eingestellt werden, um den Text konsistent zu formatieren.
