@@ -3,7 +3,6 @@ tags:
   - Windows
 ---
 Diskpart is a command-line utility used to manage and configure hard drives.
-
 ## Set up a new disk
 ```cmd
 C:\Users\...> diskpart
@@ -52,7 +51,6 @@ Formatting a disk will prepare the partition for the operating system to store d
 DISKPART> assign
 ```
 This will tell Windows to attach a letter to the partition. After this step the partition should be visible in the File Explorer. By default the next available letter will be assigned. By adding the option letter=E you can assign them by hand.
-
 ## Command Table
 | Command                                                                                                                          | Description                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
